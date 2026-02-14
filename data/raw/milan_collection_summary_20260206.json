@@ -1,0 +1,64 @@
+{
+  "city": "milan",
+  "collection_date": "2026-02-06T15:19:25.455977",
+  "duration_seconds": 1017.001636,
+  "business_types": {
+    "pharmacy": {
+      "count": 572,
+      "file": "data/raw/milan_pharmacy_20260206.csv",
+      "with_ratings": 516,
+      "avg_rating": 3.905813953488372
+    },
+    "supermarket": {
+      "count": 696,
+      "file": "data/raw/milan_supermarket_20260206.csv",
+      "with_ratings": 631,
+      "avg_rating": 4.050871632329636
+    },
+    "cafe": {
+      "count": 1508,
+      "file": "data/raw/milan_cafe_20260206.csv",
+      "with_ratings": 1383,
+      "avg_rating": 4.2219812002892265
+    },
+    "park": {
+      "count": 878,
+      "file": "data/raw/milan_park_20260206.csv",
+      "with_ratings": 645,
+      "avg_rating": 3.9742635658914724
+    },
+    "gym": {
+      "count": 1237,
+      "file": "data/raw/milan_gym_20260206.csv",
+      "with_ratings": 1047,
+      "avg_rating": 4.659885386819484
+    },
+    "restaurant": {
+      "count": 3533,
+      "file": "data/raw/milan_restaurant_20260206.csv",
+      "with_ratings": 3345,
+      "avg_rating": 4.218385650224215
+    },
+    "school": {
+      "count": 1230,
+      "file": "data/raw/milan_school_20260206.csv",
+      "with_ratings": 478,
+      "avg_rating": 4.5301255230125514
+    },
+    "bank": {
+      "count": 665,
+      "file": "data/raw/milan_bank_20260206.csv",
+      "with_ratings": 543,
+      "avg_rating": 3.076979742173113
+    },
+    "transit_station": {
+      "count": 4325,
+      "file": "data/raw/milan_transit_station_20260206.csv",
+      "with_ratings": 2481,
+      "avg_rating": 3.9380491737202736
+    }
+  },
+  "total_places": 14644,
+  "grid_size_meters": 500,
+  "grid_points": 712
+}

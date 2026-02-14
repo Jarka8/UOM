@@ -1,0 +1,686 @@
+place_id,name,type,lat,lng,rating,user_ratings_total,price_level,vicinity,city,collected_at
+ChIJP25FgaXEhkcRGwPzc5E4VFU,Farmacia Comunale N. 1,pharmacy,45.3905726,9.1668067,4.2,68.0,,"Viale Isonzo, 63, Rozzano",milan,2026-02-03T22:20:23.746621
+ChIJQ8QXyqTEhkcRjruhyjtrM30,FARMEUROPA,pharmacy,45.39212430000001,9.174337,1.9,63.0,,"Via Eugenio Curiel, 25/15, Rozzano",milan,2026-02-03T22:20:23.863156
+ChIJrbQf9yDFhkcR6-fc2nwOBz8,Tamoil,pharmacy,45.396753,9.210361100000002,4.2,64.0,,"EX SS. 412 ""DELLA VAL TIDONE, VIA, 15, Noverasco",milan,2026-02-03T22:20:25.212847
+ChIJy4gLsSbFhkcREwta74F8POE,Farmacia Noverasco di Farmacia Nova S.R.L,pharmacy,45.3952619,9.2114865,4.6,24.0,,"Via Enrico Fermi, 1/7, Opera",milan,2026-02-03T22:20:25.212894
+ChIJ96jBEV3FhkcR4mYL4KnkN3Y,Farmacia Comunale 2,pharmacy,45.3948165,9.2448149,3.3,35.0,,"Via della Vittoria, 20, Sesto Ulteriano",milan,2026-02-03T22:20:25.637577
+ChIJZdP4cprPhkcRHHrs9hvIq8M,Farmacia Civesio,pharmacy,45.3982095,9.2636355,4.1,28.0,,"Via della Liberazione, 44, San Giuliano Milanese",milan,2026-02-03T22:20:26.890306
+ChIJf5eg_L7PhkcRo1ro1aDNW_I,Farmacia Serenella,pharmacy,45.3960053,9.2816496,4.8,80.0,,"Piazza Vittorio Alfieri, 9, San Giuliano Milanese",milan,2026-02-03T22:20:27.052545
+ChIJgxYefldYKhMRif_v_ZY-6ZU,Progine Farmaceutici,pharmacy,45.40075909999999,9.1510275,4.0,1.0,,"Palazzo F6, Assago Milanofiori, Strada 1, Assago",milan,2026-02-03T22:20:28.902220
+ChIJmdNEfFzDhkcRKrzPC_jUH1U,Farmacia Valleambrosia - aperta 7 giorni su 7,pharmacy,45.39974369999999,9.1546906,4.7,88.0,,"Via Valleambrosia, 45, Rozzano",milan,2026-02-03T22:20:28.902262
+ChIJq-ARXkLDhkcR2xVQEnm9-uM,Farmacia Assago - Milanofiori,pharmacy,45.4035351,9.152793800000001,2.8,64.0,,"Viale Milanofiori, 1, Assago",milan,2026-02-03T22:20:29.020571
+ChIJgzH2jBTFhkcRo4VP1wvTRN0,Farmacia Poasco Di Blaco Alessandra,pharmacy,45.4004382,9.2318795,4.4,36.0,,"Via Unica Poasco, 23, Poasco",milan,2026-02-03T22:20:31.865301
+ChIJU90cMJfPhkcRhFKzD5gPy_c,Farmacia Borgolombardo Del Dr. Viviani Lino,pharmacy,45.4018695,9.2747152,4.6,58.0,,"Via Labriola, 18, San Giuliano Milanese",milan,2026-02-03T22:20:32.277555
+ChIJpyMvtb3PhkcReIM7MIt9QzA,Lafarmacia. Pellegrini,pharmacy,45.3996301,9.2817953,4.1,45.0,,"Viale Fratelli Cervi, 8, San Giuliano Milanese",milan,2026-02-03T22:20:32.389763
+ChIJ3fU2NbzPhkcRB5PNtb-LYLw,Tamoil,pharmacy,45.3994396,9.282003599999998,3.7,54.0,,"Viale Fratelli Cervi, 8, San Giuliano Milanese",milan,2026-02-03T22:20:32.389806
+ChIJUxhPt73PhkcRdw3XtzuMyR4,FARMACIA COSMESI,pharmacy,45.3998445,9.2815052,4.0,1.0,,"Viale Fratelli Cervi, 8D, San Giuliano Milanese",milan,2026-02-03T22:20:32.389814
+ChIJZT8CQD3DhkcRadyiDR8RkHk,Farmacia Assago - Farmagorà,pharmacy,45.40394930000001,9.13157,3.6,35.0,,"Via Roma, 2, Assago",milan,2026-02-03T22:20:34.057117
+ChIJ_b1pgJnEhkcRS3JSDfyEp04,Farmacia Bertolini,pharmacy,45.407151,9.1739413,4.9,62.0,,"Via Michele Saponaro, 34, Milano",milan,2026-02-03T22:20:35.675307
+ChIJMQPKaYXPhkcRhbRRP1lf3Hc,Farmacia Nuova del dr luca baietta,pharmacy,45.4050002,9.2676733,4.7,46.0,,"Via G. di Vittorio, 47, San Donato Milanese",milan,2026-02-03T22:20:37.569747
+ChIJvQ9wWvHPhkcRxDX4JSdIYn0,Farmacia San Carlo,pharmacy,45.406982,9.265272999999999,4.6,5.0,,"Via Ferruccio Parri, 57, San Donato Milanese",milan,2026-02-03T22:20:37.569790
+ChIJwQ_ec4zFhkcRggppaYeR0Ew,Tamoil,pharmacy,45.4078993,9.2626441,4.4,40.0,,"VIA BUOZZI, Via Ferruccio Parri, SNC, San Donato Milanese",milan,2026-02-03T22:20:37.569799
+ChIJPTWeVpvEhkcRxZkZ407r9EY,BENU Farmacia Milano N. 38,pharmacy,45.4113473,9.172673900000001,3.3,69.0,,"Via Michele Saponaro, 2, Milano",milan,2026-02-03T22:20:40.831384
+ChIJxdgIfoPPhkcRMZ3yvBCJYkI,Farmacia Comunale 1,pharmacy,45.40886039999999,9.268636200000001,4.1,81.0,,"Piazza Tevere, 16, San Donato Milanese",milan,2026-02-03T22:20:43.764949
+ChIJ29e7j5nChkcRSWRqoJnowj0,Afom Medical S.P.A.,pharmacy,45.41382950000001,9.0839038,,,,"Via San Cristoforo, 95, Trezzano sul Naviglio",milan,2026-02-03T22:20:44.099272
+ChIJ_b8-KVLDhkcRrhZ7fD2DGIA,L'Isola dei Tesori,pharmacy,45.416129,9.123175000000002,4.3,247.0,,"Viale Lomellina, 16, Buccinasco",milan,2026-02-03T22:20:45.561044
+ChIJ74D7fobEhkcR9p1LjVewcQ4,Virbac Italia,pharmacy,45.41582040000001,9.1768607,3.3,17.0,,"Via Ettore Bugatti, 15, Milano",milan,2026-02-03T22:20:47.075380
+ChIJ3db11Z_FhkcRowwP_WyF-lc,Benu Farmacia,pharmacy,45.4158694,9.2405397,3.5,2.0,,"Via San Bernardo, 42, Milano",milan,2026-02-03T22:20:48.695217
+ChIJw5CbpnXFhkcRCXdXCR5hWdo,Farmacia Comunale Milano N. 86 (Dispensario Chiaravalle),pharmacy,45.415907,9.240456999999997,3.0,3.0,,"Via San Bernardo, 42, Chiaravalle",milan,2026-02-03T22:20:48.695264
+ChIJA9P8coLPhkcR0Q9jP2VHOMI,Farmacia Comunale N. 2,pharmacy,45.4132779,9.267635300000002,4.0,60.0,,"Via Antonio Gramsci, 14, San Donato Milanese",milan,2026-02-03T22:20:48.982627
+ChIJIfw4j3fPhkcRUPRJCVroXHc,Farmacia Comunale N. 4,pharmacy,45.413076,9.2755498,4.1,38.0,,"Via Europa, 7, San Donato Milanese",milan,2026-02-03T22:20:49.091742
+ChIJAQVW4CXohkcRBP0LoFf5g5Q,Farmacia Comunale,pharmacy,45.41911839999999,9.070171099999998,4.0,13.0,,"Viale Indipendenza, 14, Trezzano sul Naviglio",milan,2026-02-03T22:20:50.323930
+ChIJcRhv4CXohkcRoS8UqkJ1Pu4,Global Health Distribution Srl,pharmacy,45.4190088,9.070223300000002,,,,"Viale Indipendenza, 12, Trezzano sul Naviglio",milan,2026-02-03T22:20:50.323963
+ChIJ4WoFrCfohkcRcVpjooGjlrQ,Farmacia Gerardis,pharmacy,45.4187894,9.074472499999999,4.5,69.0,,"Via Marchesina, 11, Trezzano sul Naviglio",milan,2026-02-03T22:20:50.438925
+ChIJQ1ctPvDChkcRctKp0OCvJAw,FARMACIA EMILIA BUCCINASCO (MI),pharmacy,45.4180245,9.109528899999999,4.7,30.0,,"Via Romagna, 1, Buccinasco",milan,2026-02-03T22:20:50.813626
+ChIJF378I_zChkcRiH0kzjvYODs,Farmacia Marischi di Giorgia Ratti,pharmacy,45.4183275,9.1099384,,,,"Via Emilia, 1, Buccinasco",milan,2026-02-03T22:20:50.903366
+ChIJa-1Vx_3ChkcRR_Fg7F4OihA,Farmacia Dott. Paolo Carnelli,pharmacy,45.4198864,9.120875999999999,4.3,25.0,,"Viale Lomellina, 5, Buccinasco",milan,2026-02-03T22:20:51.009940
+ChIJ4V6m1YDEhkcRCNSHyG6rfNM,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.41876630000001,9.1745628,3.0,5.0,,"Via Guido de Ruggiero, 8, Milano",milan,2026-02-03T22:20:52.591967
+ChIJG4AxpojEhkcRdidqt1doEPc,Farmacia Quai Dr. Arduino G.,pharmacy,45.4181491,9.178093299999999,4.7,50.0,,"Via Fratelli Fraschini, 8, Milano",milan,2026-02-03T22:20:52.591994
+ChIJF9b504bEhkcRzUqrxSVCwk0,Farmacia Comunale,pharmacy,45.4188073,9.1745732,4.1,39.0,,"Via Guido de Ruggiero, 8, Milano",milan,2026-02-03T22:20:52.591999
+ChIJ_drbLYfFhkcRiJXm750f8u8,Farmacia Metanopoli Dr. Mulas,pharmacy,45.41932979999999,9.2598354,4.3,105.0,,"Via Monte Bianco, 10, San Donato Milanese",milan,2026-02-03T22:20:55.506164
+ChIJsXs1_DDohkcRcey4gPyeNt0,Farmacia Zingone,pharmacy,45.4230812,9.0625314,4.5,58.0,,"Via Giuseppe Garibaldi, 8, Trezzano sul Naviglio",milan,2026-02-03T22:20:55.794799
+ChIJ84WNajHohkcRepnmaYaOr-U,Tamoil,pharmacy,45.424359,9.0612239,4.0,105.0,,"VIA MAZZINI, Via Donato Bramante, 12, Trezzano sul Naviglio",milan,2026-02-03T22:20:55.794815
+ChIJx4XQwPXChkcR7RNcXaUkg4Q,Farmacia Trieste,pharmacy,45.4253296,9.1058952,4.6,50.0,,"Via Trieste, 24, Buccinasco",milan,2026-02-03T22:20:57.221693
+ChIJYYN3t_nChkcRxZgruZPS8Fg,Farmacia Comunale 2,pharmacy,45.42326749999999,9.1139934,3.2,18.0,,"Via Don Giovanni Minzoni, 5, Buccinasco",milan,2026-02-03T22:20:57.334728
+ChIJt49tZv7ChkcRLDxBnfS51ow,Farmacia Comunale 1 di Buccinasco,pharmacy,45.4219094,9.121132300000001,3.8,120.0,,"Via Marzabotto, 1, Buccinasco",milan,2026-02-03T22:20:57.447772
+ChIJk_4BUlrEhkcRqAHZHTq4O3c,BENU Farmacia Milano N. 76,pharmacy,45.4253372,9.2046537,3.6,40.0,,"Via Federico Chopin, 111, Milano",milan,2026-02-03T22:20:59.309871
+ChIJWa45WQPPhkcRQbhlGPFZI5U,Farmacia Santa Barbara,pharmacy,45.4237128,9.2653559,3.9,78.0,,"Via Alfonsine, 22, San Donato Milanese",milan,2026-02-03T22:21:00.901632
+ChIJYZci2yzohkcRiBD8y9evONU,Faset S.r.l.,pharmacy,45.4288049,9.070803999999997,3.7,3.0,,"Via Carlo Goldoni, 13, Trezzano sul Naviglio",milan,2026-02-03T22:21:01.214134
+ChIJKQuxgizohkcRTw-CX2lsLCo,Nanogen Advanced Diagnostics S.r.l.,pharmacy,45.42774850000001,9.0729264,,,,"Viale Cristoforo Colombo, 49, Trezzano sul Naviglio",milan,2026-02-03T22:21:01.214149
+ChIJwdFzLtrDhkcRKHM2lMDObCQ,Farmacia Naviglio,pharmacy,45.42827640000001,9.100557499999997,4.6,59.0,,"Via Vittorio Veneto, 1, Corsico",milan,2026-02-03T22:21:02.509867
+ChIJt5ysyV_ChkcRL7M5LHlD1y4,Farmacia Unica Prati,pharmacy,45.42878839999999,9.1034916,4.1,31.0,,"Piazza Fratelli Cervi, 8, Corsico",milan,2026-02-03T22:21:02.618886
+ChIJqYfvW1nChkcRV1txxp61YBI,Farmacie Comunali Corsichesi Spa,pharmacy,45.4305959,9.1099474,3.9,24.0,,"Via Camillo Benso Cavour, 94, Corsico",milan,2026-02-03T22:21:02.729262
+ChIJyQUuR4fDhkcRYiQhgJeDltU,BENU Farmacia Milano N. 40,pharmacy,45.4271964,9.170405299999999,3.5,40.0,,"Via della Chiesa Rossa, 95, Milano",milan,2026-02-03T22:21:04.299334
+ChIJg06LXXnEhkcRKPWxBCT2KCs,Lafarmacia. Boifava,pharmacy,45.4270787,9.176427000000002,3.8,127.0,,"Via Pietro Boifava, 31/B, Milano",milan,2026-02-03T22:21:04.401049
+ChIJu5Qtu3DEhkcRz1ufCNjlZX0,Farmacia Chiesa Rossa - Lumini Dr. Norberto - Milano,pharmacy,45.43090399999999,9.179763699999997,4.3,40.0,,"Via Medeghino, 27, Milano",milan,2026-02-03T22:21:04.501625
+ChIJQSMW6UTEhkcRWzLe7g999tE,Farmacia Val Di Sole,pharmacy,45.4295279,9.202552200000001,4.1,51.0,,"Via Val di Sole, 22, Milano",milan,2026-02-03T22:21:04.738815
+ChIJHaYP34nFhkcRSwtZehOWzxw,Farmacia Comunale 3,pharmacy,45.4266606,9.264331,3.3,41.0,,"Via Triulziana, 14, San Donato Milanese",milan,2026-02-03T22:21:06.347928
+ChIJ33eXYmXPhkcRH3uuGstz-ew,La Zootecnica Group,pharmacy,45.4286512,9.271663199999999,4.5,1676.0,,"Via Fiume Lambro, 3, San Donato Milanese",milan,2026-02-03T22:21:07.476655
+ChIJQ4T8D3zChkcRG3_SOIdVMOc,Farmacia Tessera Dott. Giacomo Martinoli,pharmacy,45.4324836,9.08703,4.7,76.0,,"Via Fratelli Rosselli, 1, Cesano Boscone",milan,2026-02-03T22:21:07.874898
+ChIJNzMNaFzChkcRb4q8szASCNA,Farmacia Corneliani,pharmacy,45.4328369,9.108171699999998,4.6,47.0,,"Via Vittorio Emanuele II, 22, Corsico",milan,2026-02-03T22:21:08.124514
+ChIJCw3TOFrChkcRwlwuXRD8vqE,Farmacia Dante,pharmacy,45.43186179999999,9.1134431,4.0,64.0,,"Via dei Gigli, 11, Corsico",milan,2026-02-03T22:21:08.242294
+ChIJE0T2u5XDhkcRaPUnux6G1Xg,Canna Store,pharmacy,45.4327901,9.110915499999999,,,,"Via Vittorio Alfieri, 1, Corsico",milan,2026-02-03T22:21:08.242338
+ChIJoawV5lDChkcRk-bV_t9ac8A,Farmacia F.lli Stilo del Dott. Domenico Stilo,pharmacy,45.4325132,9.1202255,4.1,75.0,,"Via degli Alpini, Buccinasco",milan,2026-02-03T22:21:09.368655
+ChIJ99Zy2pnDhkcRBvtfFzuc2HA,BENU Farmacia Milano N. 84,pharmacy,45.43187169999999,9.1536767,3.5,35.0,,"Via Agostino de Pretis, 1, Milano",milan,2026-02-03T22:21:09.727305
+ChIJL-oDaYXDhkcRifGAeP4M_2o,Farmacia Comunale Milano N. 56,pharmacy,45.4311035,9.1629082,3.7,26.0,,"Via San Paolino, 18, Milano",milan,2026-02-03T22:21:09.903208
+ChIJvSos7HbEhkcR-SJbLSLk_ic,Farmacia Montegani dal 1911,pharmacy,45.4339161,9.177589500000002,3.8,72.0,,"Via Anton Giulio Barrili, 20, Milano",milan,2026-02-03T22:21:10.087264
+ChIJZzLsbUHEhkcR5A1K1UFmSTo,Farmacia Rocchi Di Rocchi Alessandro,pharmacy,45.4342993,9.200794100000001,4.4,29.0,,"Via Luigi Alamanni, 2, Milano",milan,2026-02-03T22:21:11.390114
+ChIJ6f_W_LTFhkcR9STgCBgfWkI,Farmacie Omero Di Ricci Dr. Raniero,pharmacy,45.43427699999999,9.223412399999999,4.6,25.0,,"Via Nicolò Barabino, 3, Milano",milan,2026-02-03T22:21:11.619679
+ChIJfUj6pbXFhkcRKYb46K9TEMs,Omero Farmacia,pharmacy,45.434478,9.223931999999998,,,,Italy,milan,2026-02-03T22:21:11.702433
+ChIJ4_w_nJXFhkcREghMhqgkSkM,Farmacia Pennaglia,pharmacy,45.43215089999999,9.244027700000002,3.7,46.0,,"Via Monte Palombino, 9/B, Milano",milan,2026-02-03T22:21:11.856542
+ChIJB1EQ2i_ohkcRitJnAVgQsUI,Farmacie Comunali Corsichesi S.P.A.,pharmacy,45.43941820000001,9.0928562,4.2,11.0,,"Via Eugenio Curiel, 2, Corsico",milan,2026-02-03T22:21:14.642711
+ChIJE-_5GSXohkcRmkZZy8bvxmw,Lafarmacia. Del Giardino,pharmacy,45.4396443,9.090336500000001,3.9,46.0,,"Via delle Betulle, 3, Cesano Boscone",milan,2026-02-03T22:21:14.642756
+ChIJrQm9Lm_ChkcR-qiyXiHpjWg,Farma Development Srl,pharmacy,45.4388423,9.099331999999999,5.0,1.0,,"Via Roma, 112, Cesano Boscone",milan,2026-02-03T22:21:14.738124
+ChIJ7aPb-UTChkcRvqwrlbX0V4M,Farmacia Muttini,pharmacy,45.4367463,9.1067582,3.8,26.0,,"Via Niccolò Copernico, 6, Corsico",milan,2026-02-03T22:21:14.849991
+ChIJxcFT0lrChkcRVxV30yI6q5o,Lafarmacia. Internazionale Corsico,pharmacy,45.4354433,9.1136856,4.1,83.0,,"Via Milano, 17, Corsico",milan,2026-02-03T22:21:14.957848
+ChIJLaTWXr7DhkcRc5W1f736rVs,Farmacia N.S. di Montallegro,pharmacy,45.43877029999999,9.1493295,4.6,85.0,,"Via Bari, 11a, Milano",milan,2026-02-03T22:21:15.375268
+ChIJdwsoLpTDhkcR2i7mLDUtiaI,Farmacia Barona,pharmacy,45.4376231,9.1552394,3.9,70.0,,"Piazza Guglielmo Miani, 3, Milano",milan,2026-02-03T22:21:16.497267
+ChIJzaqgIpLDhkcRU_Qlp26OEFY,Azienda Farmacie Milanesi SP A.,pharmacy,45.4369688,9.1611931,3.3,6.0,,"Viale Famagosta, 36, Milano",milan,2026-02-03T22:21:16.605865
+ChIJDdSgIpLDhkcRucVt82u2s1U,BENU Farmacia Milano N. 70 24H,pharmacy,45.4369941,9.161279,3.3,290.0,,"Viale Famagosta, 36, Milano",milan,2026-02-03T22:21:16.605896
+ChIJcQUw7YnDhkcR0E1j-WODSsw,Farmacia della Torretta,pharmacy,45.43592049999999,9.1731623,4.4,106.0,,"Largo Promessi Sposi, 4, Milano",milan,2026-02-03T22:21:16.730318
+ChIJLdosTHTEhkcRDa1HxM1Lrkc,Farmacia Sempio SNC,pharmacy,45.4370167,9.1780644,4.8,94.0,,"Via Lodovico Montegani, 4, Milano",milan,2026-02-03T22:21:16.838673
+ChIJlzkSMXLEhkcROxFaT-JeKFk,BENU Farmacia Milano N. 4,pharmacy,45.43557450000001,9.183779900000001,3.2,94.0,,"Via Volvinio, 25, Milano",milan,2026-02-03T22:21:16.948422
+ChIJp1smJnLEhkcRKwufQWHf7Ho,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.4356452,9.1838728,1.0,1.0,,"Via Volvinio, 25, Milano",milan,2026-02-03T22:21:16.948454
+ChIJG69GNwDFhkcRjj_zXksZjeo,Farmacia,pharmacy,45.43830790000001,9.1835085,,,,"Via Giorgio Briano, 11-1, Milano",milan,2026-02-03T22:21:16.948460
+ChIJ01NxInPEhkcRRG_T85fFasg,Farmacia Balboni - Gruppo Farmacie Italiane,pharmacy,45.4384072,9.183639800000002,4.1,103.0,,"Via Giovanni Pezzotti, 61, Milano",milan,2026-02-03T22:21:16.948464
+ChIJ5yoV5mrEhkcR3WQMTxX7tHg,La Sapienza,pharmacy,45.437088,9.195911999999998,4.6,142.0,,"Via Giacomo Antonini, 56, Milano",milan,2026-02-03T22:21:17.118035
+ChIJAVZl0D_EhkcRoAL4kz0KBCA,Farmacia Vigentino,pharmacy,45.4399744,9.199760900000001,4.3,82.0,,"Via Giuseppe Ripamonti, 108, Milano",milan,2026-02-03T22:21:17.222743
+ChIJ14U19zXEhkcRNx_hC6RaIwA,BENU Farmacia Milano N. 60,pharmacy,45.43700279999999,9.2151408,3.4,85.0,,"Via Marco D'Agrate, 8, Milano",milan,2026-02-03T22:21:17.396407
+ChIJfSt6nTXEhkcRg-cPKpepfCs,Antica Farmacia Dell'Abbazia Di Chiaravalle,pharmacy,45.4375339,9.2193831,4.7,105.0,,"Via Comacchio, 4, Milano",milan,2026-02-03T22:21:18.514535
+ChIJxbSP-srFhkcRELKcTHLo7GA,Lafarmacia. Santa Rita Milano,pharmacy,45.43807169999999,9.223720799999999,4.6,32.0,,"Piazzale Gabriele Rosa, 11, Milano",milan,2026-02-03T22:21:18.514587
+ChIJ49YNyMvFhkcRMkhqFDEv0EU,BENU Farmacia Milano N. 34,pharmacy,45.4394034,9.226450000000002,3.6,44.0,,"Via Carlo Marochetti, 9, Milano",milan,2026-02-03T22:21:18.634812
+ChIJfwStHsjFhkcRabfyYzcIHdY,Tamoil,pharmacy,45.4359754,9.231607499999999,3.8,201.0,,"Via Giovanni Battista Cassinis, 16, Milano",milan,2026-02-03T22:21:18.634857
+ChIJp24ejsDFhkcRFOrGRMWGomQ,BENU Farmacia Milano N. 30,pharmacy,45.435704,9.240679,3.0,72.0,,"Via Francesco Pizzolpasso, 5, Milano",milan,2026-02-03T22:21:18.837024
+ChIJRcvpmmXDhkcRWshNgXiJmyA,farmacia eredi ferri cesano boscone,pharmacy,45.4407181,9.097276599999999,3.7,3.0,,"Via Roma, 76, Cesano Boscone",milan,2026-02-03T22:21:20.627646
+ChIJAV9IX0bChkcRnJsE7go0aHM,Farmacie Comunali Corsichesi Spa,pharmacy,45.4415454,9.1154846,4.6,13.0,,"Via Ferdinando Magellano, 5, Corsico",milan,2026-02-03T22:21:20.807748
+ChIJMR1G30PChkcRrV3s22HJ7X0,Public Pharmacy Corsichesi,pharmacy,45.4408483,9.110367400000001,3.9,247.0,,"Via Sebastiano Caboto, 3, Corsico",milan,2026-02-03T22:21:20.807778
+ChIJZ0DCYUHChkcRhV77QP2auAY,Farmacia Giorno e Notte,pharmacy,45.4408773,9.110348499999999,3.1,9.0,,"Via Sebastiano Caboto, 3, Corsico",milan,2026-02-03T22:21:20.807787
+ChIJaRRsNTXChkcR3SITNotSi2s,Farmacia San Cristoforo,pharmacy,45.4444235,9.1285697,4.7,86.0,,"Piazza Tirana, 2, Milano",milan,2026-02-03T22:21:22.046387
+ChIJ01yi5qDDhkcRHnT5_o0k_w4,FARMACIA SFORZA,pharmacy,45.4408413,9.1292258,4.9,8.0,,"Via Lodovico Il Moro, 163, Milano",milan,2026-02-03T22:21:22.046431
+ChIJe6dxkbfDhkcRczj9EZL6mes,BENU Farmacia Milano N. 2,pharmacy,45.44144589999999,9.140478499999999,3.4,55.0,,"Via Privata Parenzo, 8a, Milano",milan,2026-02-03T22:21:22.159608
+ChIJe9AgTZXDhkcRK1RcdLaotrM,BENU Farmacia Milano N. 53,pharmacy,45.44218,9.1554133,3.0,93.0,,"Via Ettore Ponti, 31, Milano",milan,2026-02-03T22:21:22.405383
+ChIJ398ftYzDhkcRghr_Jom4nfU,Farmacia Rimini,pharmacy,45.4405923,9.168958000000002,3.4,7.0,,"Via Rimini, 29, Milano",milan,2026-02-03T22:21:22.596066
+ChIJmYMyEa_DhkcRMl7ggPDURpw,Farmacia Moncucco,pharmacy,45.4405825,9.1689951,4.6,14.0,,"Via Rimini, 29, Milano",milan,2026-02-03T22:21:22.596116
+ChIJzZbnw_TDhkcRbKoyXHHLgcg,Farmacia Imperia,pharmacy,45.4413449,9.172331599999998,4.0,49.0,,"Via Spezia, 20, Milano",milan,2026-02-03T22:21:22.596125
+ChIJDegA3grEhkcRISyNsAsRVdk,Farmacia Meda,pharmacy,45.4411146,9.178889999999999,4.8,30.0,,"Via Giuseppe Meda, 37, Milano",milan,2026-02-03T22:21:22.698018
+ChIJG2nTNgrEhkcR5nKKgohz98A,Farmacia Dr Ferrari,pharmacy,45.44371399999999,9.179186099999997,3.8,14.0,,"Viale Tibaldi, 15, Milano",milan,2026-02-03T22:21:22.816149
+ChIJBc-kxQzEhkcRmZW6CC3p_iY,BENU Farmacia Comunale Milano N. 61,pharmacy,45.4405416,9.183370000000002,3.7,44.0,,"Via Vincenzo Magliocco, 3, Milano",milan,2026-02-03T22:21:22.816193
+ChIJRyZhwAzEhkcRjAOVvUDhRVU,BENU Farmacia Online,pharmacy,45.4402505,9.183769999999999,2.4,11.0,,"Via Vincenzo Magliocco, 3, Milano",milan,2026-02-03T22:21:22.816200
+ChIJAQAwMQrEhkcREbg6cc_0pIg,Farmacia Tibaldi S.n.c,pharmacy,45.44370449999999,9.1792701,3.8,21.0,,"Viale Tibaldi, 15, Milano",milan,2026-02-03T22:21:22.816208
+ChIJexYA_wvEhkcRgRJ5HtFYuSg,Farmacia Montagna,pharmacy,45.44410939999999,9.1829032,4.0,28.0,,"Viale Tibaldi, 50, Milano",milan,2026-02-03T22:21:22.816213
+ChIJj6zul3_FhkcRcbzhqoGuGak,Farmacia Sant'Anna,pharmacy,45.44415679999999,9.183056299999999,4.5,10.0,,"Viale Tibaldi, 50, Milano",milan,2026-02-03T22:21:22.816222
+ChIJS-7NJzfEhkcR7OP_4ppzN6Q,BENU Farmacia Milano N. 13,pharmacy,45.4414221,9.2136019,3.4,89.0,,"Piazza Geremia Bonomelli, 4, Milano",milan,2026-02-03T22:21:24.225628
+ChIJY8_iYcvFhkcR5aK5oxxmXgc,Farmacia Boots Corvetto,pharmacy,45.4408361,9.224581800000001,3.1,427.0,,"Viale Lucania, 6, Milano",milan,2026-02-03T22:21:24.331205
+ChIJKQKjEfrFhkcRnTEeinM5CyA,Farmacia Manca,pharmacy,45.4425562,9.263284400000002,4.3,29.0,,"Via Giacinto Serrati Menotti, 12, Milano",milan,2026-02-03T22:21:25.831423
+ChIJ8xwce-XphkcRyWytvTyEDUU,Tamoil,pharmacy,45.4456247,9.074665099999997,4.0,304.0,,"TANG. OVEST LATO MUGGIANO EST SNC, Milano",milan,2026-02-03T22:21:26.169639
+ChIJwYfkKgvChkcRWTwldvyXf_I,Farmacia Dr. Max,pharmacy,45.4472748,9.0882156,4.2,62.0,,"Via Pasubio, 1, Cesano Boscone",milan,2026-02-03T22:21:26.349213
+ChIJy8861gzChkcRAUyh6izJ3ZE,Farmacia Dott. Camera Giacomo,pharmacy,45.4471846,9.093664,3.6,40.0,,"Via Monsignor Pogliani, 14, Cesano Boscone",milan,2026-02-03T22:21:26.452401
+ChIJh9npNXPChkcRwIR5_LnJ7sM,Mainardi Massimo,pharmacy,45.4465528,9.0921395,,,,"Vicolo Cortuccio, 7, Cesano Boscone",milan,2026-02-03T22:21:26.452434
+ChIJi266jnLChkcRb97bo21YjF0,Farmacia Santo Spirito,pharmacy,45.4445183,9.0952615,4.6,36.0,,"Via della Repubblica, 2, Cesano Boscone",milan,2026-02-03T22:21:26.452443
+ChIJy8861gzChkcRSJRnRyDnUHA,D & G.i.,pharmacy,45.4471558,9.093601099999997,5.0,1.0,,"Via Monsignor Pogliani, 20, Cesano Boscone",milan,2026-02-03T22:21:26.452451
+ChIJG-eY777DhkcRvNaXmFVYUtU,DuEllE,pharmacy,45.4441797,9.1010033,4.7,24.0,,"Via Isonzo, 27, Cesano Boscone",milan,2026-02-03T22:21:26.562059
+ChIJW7Bq3WrChkcR3hA_uoOw3hU,Farmacie Comunali Corsichesi Spa,pharmacy,45.4448223,9.105129100000001,5.0,3.0,,"Via Alessandro Volta, 20, Corsico",milan,2026-02-03T22:21:27.685150
+ChIJGb4qqBTChkcR_M0jXYTLyaA,Socrate Medical Srl,pharmacy,45.44683,9.103449999999997,,,,"Via Raffaello Sanzio, 16, Cesano Boscone",milan,2026-02-03T22:21:27.685201
+ChIJuX-YMTTChkcRUJxkOBfw3oE,Farmacia Lorenteggio - Apoteca Natura,pharmacy,45.4470669,9.1271215,4.0,103.0,,"Via Lorenteggio, 208, Milano",milan,2026-02-03T22:21:27.939148
+ChIJpewjscvDhkcRilpVHiHpiR4,Farmacia Biazzi,pharmacy,45.4460536,9.1349092,4.2,24.0,,"Via Giambellino, 131/5, Milano",milan,2026-02-03T22:21:28.051624
+ChIJtUeodVjDhkcRPJo6sFK6hl4,Farmacia Dinamica Milano,pharmacy,45.4475399,9.1557193,4.7,59.0,,"Via Lodovico Il Moro, 3, Milano",milan,2026-02-03T22:21:28.357817
+ChIJK2Tm__bDhkcROMRCSXpDNKs,Farmacia Alzaia Pavese,pharmacy,45.4471788,9.1753047,4.3,16.0,,"Via Mario Pichi, 9, Milano",milan,2026-02-03T22:21:29.589872
+ChIJacTb1vfDhkcRqsipCMyj3Cc,Corti Laura,pharmacy,45.4476354,9.177911,,,,"Via Pavia, 8, Milano",milan,2026-02-03T22:21:29.589888
+ChIJRySxDwjEhkcRfphpBPPuIQU,Lafarmacia. Del Gentilino,pharmacy,45.44889740000001,9.179596499999999,4.1,77.0,,"Via Giuseppe Lagrange, 2, Milano",milan,2026-02-03T22:21:29.699610
+ChIJ8z5WMQjEhkcRe6sw9NznLBI,Farmacia San Gottardo,pharmacy,45.4472047,9.1794029,2.6,31.0,,"Via Pavia, 1, Milano",milan,2026-02-03T22:21:29.699684
+ChIJe4r3PPrFhkcRBKNqpAwTGYM,Farmacia della Roggia iofarma,pharmacy,45.4462073,9.1955203,4.7,103.0,,"Viale Toscana, 17, Milano",milan,2026-02-03T22:21:29.883492
+ChIJB0SKWjDEhkcRz_XCBCppzA8,Farmacia San Luigi,pharmacy,45.44444499999999,9.214477300000002,4.6,116.0,,"Corso Lodi, 62, Milano",milan,2026-02-03T22:21:30.127622
+ChIJaQq5UDDEhkcRK4XMInOaLZU,Farmacia Omeopatia,pharmacy,45.444463,9.2144753,,,,Italy,milan,2026-02-03T22:21:30.127667
+ChIJGa078jLEhkcRziJmstSItgk,BENU Farmacia Milano N. 54,pharmacy,45.4440659,9.22225,3.3,39.0,,"Via Giovanni Scheiwiller, 2, Milano",milan,2026-02-03T22:21:30.240271
+ChIJM-S-VS7EhkcRElOFrD8H-0k,Prix Galien,pharmacy,45.4484455,9.216548399999997,,,,"Via Pier Candido Decembrio, 28a, Milano",milan,2026-02-03T22:21:30.240325
+ChIJq_jcntzFhkcR8NseDNtQ4yo,BENU Farmacia Milano N. 17,pharmacy,45.44547749999999,9.242890599999999,4.6,23.0,,"Viale Ungheria, 4, Milano",milan,2026-02-03T22:21:31.506655
+ChIJ66QZ2NzFhkcR1VwHQ4Vi_bU,Farmacia Santa Giulia,pharmacy,45.4447323,9.2440149,4.4,76.0,,"Via Romualdo Bonfadini, 87, Milano",milan,2026-02-03T22:21:31.506724
+ChIJrSMtl-fFhkcRaJcUVOG9gVI,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.4451006,9.2485014,3.0,4.0,,"Via del Liri, 1, Milano",milan,2026-02-03T22:21:31.611579
+ChIJQSmnfd3FhkcROWlWBxkAP7o,Lloyds Farmacia Comunale,pharmacy,45.4457715,9.2484273,4.0,24.0,,"Via del Liri, 1, Milano",milan,2026-02-03T22:21:31.611598
+ChIJcanygArPhkcRON009GwrznY,Dispensario Farmaceutico,pharmacy,45.4452301,9.271486600000001,5.0,3.0,,"Via Archimede, 21, Linate",milan,2026-02-03T22:21:31.914790
+ChIJG03QyOPphkcR9fEggrV2r5s,Farmacia Olmi,pharmacy,45.4532082,9.0836355,4.8,93.0,,"Via Delle Betulle, 10, Milano",milan,2026-02-03T22:21:33.288574
+ChIJ9yTRnzHChkcRK3WVmylt3kQ,BENU Farmacia Milano N. 73,pharmacy,45.4513185,9.125850100000001,4.4,39.0,,"Via Angelo Inganni, 40, Milano",milan,2026-02-03T22:21:33.727475
+ChIJ1-MVy83DhkcR0wVkhySe0l0,Farmacia Fiordalisi,pharmacy,45.4504848,9.137388300000001,4.6,59.0,,"Via dei Fiordalisi, 2, Milano",milan,2026-02-03T22:21:33.919434
+ChIJ-5iqqs_DhkcR8QDYjVx7AQc,Lafarmacia. Scalabrini,pharmacy,45.4497892,9.140945799999997,4.2,26.0,,"Largo Giovanni Battista Scalabrini, 6, Milano",milan,2026-02-03T22:21:33.919464
+ChIJgygvL87DhkcR6odvw2VlWiw,BENU Farmacia Milano N. 42,pharmacy,45.45205079999999,9.1414343,3.1,94.0,,"Via Salvatore Barzilai, 1, Milano",milan,2026-02-03T22:21:35.046830
+ChIJw8F5hMXDhkcRrPk5Iwk79jE,Farmacia Giambellino,pharmacy,45.4494912,9.144535699999999,4.4,37.0,,"Via Giambellino, 64, Milano",milan,2026-02-03T22:21:35.046869
+ChIJE6eIUMPDhkcR5oXpkc3NnoU,Farmacia Tolstoj la Farmacia come una Volta,pharmacy,45.45117580000001,9.1507914,4.1,97.0,,"Via Leone Tolstoi, Via Giambellino, 17, Milano",milan,2026-02-03T22:21:35.160867
+ChIJ14AWJtvDhkcRFmuQv2lashM,Farmacia Comunale,pharmacy,45.4524955,9.1482065,2.5,2.0,,"Via Vespri Siciliani, 40, Milano",milan,2026-02-03T22:21:35.160912
+ChIJcx1Y19rDhkcRvy5rBvPrsns,BENU Farmacia Milano N. 31,pharmacy,45.4525771,9.148151499999999,3.6,61.0,,"Via Tito Vignoli, 42, Milano",milan,2026-02-03T22:21:35.160921
+ChIJ4fgLS93DhkcRBaC3eOooJqw,Naviglio Farmacia Dr. Banfi. Emilio,pharmacy,45.4514739,9.1551511,4.2,100.0,,"Viale Carlo Troya, 11, Milano",milan,2026-02-03T22:21:35.277187
+ChIJkYywFu_DhkcR4XG8U80nGA8,Farmacia Eredi Catalucci,pharmacy,45.4490809,9.1631737,4.0,39.0,,"Ripa di Porta Ticinese, 99, Milano",milan,2026-02-03T22:21:35.389924
+ChIJN3ZcEPvDhkcRAE3RUaXzoL4,Lafarmacia. Porta Genova,pharmacy,45.4528516,9.1702181,3.3,210.0,,"Piazzale Stazione Genova, 53, Milano",milan,2026-02-03T22:21:35.515917
+ChIJq6rqG_vDhkcRdwgjDDKHEp4,Farmacia Casale,pharmacy,45.452914,9.170350599999999,3.5,4.0,,"Via Vigevano, 45, Milano",milan,2026-02-03T22:21:35.515939
+ChIJBVR4hfnDhkcRLtVbLoMsodI,Farmacia Tarantino,pharmacy,45.4515898,9.1746319,4.1,81.0,,"Ripa di Porta Ticinese, 33, Milano",milan,2026-02-03T22:21:35.623049
+ChIJVVWBifnDhkcRhyewoUfPVgI,MORANO SUL PO,pharmacy,45.451283,9.173838900000002,,,,"Via Filippo Argelati, 10, Milano",milan,2026-02-03T22:21:35.623067
+ChIJVVWBifnDhkcReml0rRd7E1Q,Pietraporzio,pharmacy,45.451283,9.173838900000002,,,,"Via Filippo Argelati, 10, Milano",milan,2026-02-03T22:21:35.623071
+ChIJVVWBifnDhkcR5nLB_8FWKGg,sarentino,pharmacy,45.451283,9.173838900000002,,,,"Via Filippo Argelati, 10, Milano",milan,2026-02-03T22:21:35.623075
+ChIJVVWBifnDhkcR8T0jXNYlFnI,Nuzama S.r.l.,pharmacy,45.451283,9.173838900000002,,,,"Via Filippo Argelati, 10, Milano",milan,2026-02-03T22:21:35.623079
+ChIJf7sTeQfEhkcREyWGuH8s80g,Farmacia Ticinese,pharmacy,45.451797,9.180211,4.0,44.0,,"Corso San Gottardo, 1, Milano",milan,2026-02-03T22:21:35.724958
+ChIJdfsBDgfEhkcRA5xftsVRlco,Para Farmacia,pharmacy,45.4521059,9.1816355,4.3,6.0,,"Viale Col di Lana, 1, Milano",milan,2026-02-03T22:21:35.724985
+ChIJO5mUGxvEhkcRcLXbatJIv2k,Farmacia Bligny Brambilla Dr. Giovanni,pharmacy,45.45106169999999,9.1924929,4.1,57.0,,"Viale Bligny, 23, Milano",milan,2026-02-03T22:21:35.830003
+ChIJRZBEIQTEhkcRMcPYAeHsAX4,Farmacia Calatafimi,pharmacy,45.4522819,9.185881099999998,4.0,46.0,,"Piazzale di Porta Lodovica, 2, Milano",milan,2026-02-03T22:21:35.830022
+ChIJZ65A6xnEhkcRoZcONWRfseQ,Farmacia Ripamonti,pharmacy,45.4487726,9.1969425,3.7,43.0,,"Via Giovanni Bellezza, 2, Milano",milan,2026-02-03T22:21:35.941104
+ChIJjxVk2hvEhkcRSaVERXh0jGI,New Beretta Pharmacy,pharmacy,45.4511178,9.196530400000002,4.3,317.0,,"Viale Bligny, 47, Milano",milan,2026-02-03T22:21:35.941127
+ChIJE3yhJx_EhkcR3wdZSsKERJM,Farmacia Alla Porta - Farmacie Stilo Milano,pharmacy,45.4531307,9.200476199999997,4.1,35.0,,"Corso di Porta Romana, 126, Milano",milan,2026-02-03T22:21:36.065838
+ChIJsQ4EmiLEhkcRKhsPpL9qsaA,Farmacia Minerva Dr. Sergent-Marceau,pharmacy,45.4490966,9.202939199999998,3.7,29.0,,"Via Crema, Via Piacenza, 17, Milano",milan,2026-02-03T22:21:36.065871
+ChIJ-bKwECLEhkcRPwlIoWv7_IY,Farmacia Lodi SNC Dr Cristina e Luca Demartini,pharmacy,45.451446,9.203892,3.9,40.0,,"Corso Lodi, 5, Milano",milan,2026-02-03T22:21:36.065880
+ChIJaUdnBiPEhkcRc_i1xm2tRlQ,Farmacia Roma snc,pharmacy,45.44926079999999,9.205565800000002,4.8,34.0,,"Via Piacenza, 24, Milano",milan,2026-02-03T22:21:36.065889
+ChIJkQ3sryXEhkcRma7wIT62aLQ,Farmacia Metalla,pharmacy,45.4496827,9.2116951,3.0,272.0,,"Viale Umbria, 19, Milano",milan,2026-02-03T22:21:37.200230
+ChIJL_AcpSPEhkcRFTmNhH0q4xk,Farmacia Corsico Maestrelli Dr. Patrizia,pharmacy,45.4500002,9.2062842,2.9,51.0,,"Corso Lodi, 19, Milano",milan,2026-02-03T22:21:37.200252
+ChIJrRZ-XSvEhkcR1TRt05fnM8M,BENU Farmacia Milano N. 43,pharmacy,45.4510364,9.2247483,3.5,39.0,,"Piazzale Vincenzo Cuoco, 4, Milano",milan,2026-02-03T22:21:37.386624
+ChIJSeKn2CvEhkcR2n9dsv52CXQ,Farmacia Dr. Max,pharmacy,45.4523276,9.2208285,3.7,88.0,,"Piazza Insubria, 11, Milano",milan,2026-02-03T22:21:37.386648
+ChIJ73_DayzEhkcR9qEd4JgUneU,Farmacia Dott.ssa Marina Mortara,pharmacy,45.4498164,9.219970300000002,4.3,98.0,,"Via Alberto Caroncini, 6, Milano",milan,2026-02-03T22:21:37.386653
+ChIJ_yzVA9XFhkcRIodPF9VV6w4,Farmacia Del Mercato,pharmacy,45.4527005,9.229040799999998,4.5,42.0,,"Via Varsavia, 4, Milano",milan,2026-02-03T22:21:37.487409
+ChIJ-S2KsuXphkcRd1WyVZ_CW58,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.4542004,9.0790629,2.5,2.0,,"Via Delle Betulle, 36, Milano",milan,2026-02-03T22:21:39.248777
+ChIJR3EoSeTphkcRPXjusWFcpSE,Farmacia Comunale Milano N. 45,pharmacy,45.4540841,9.0791906,4.1,7.0,,"Via Delle Betulle, 36, Milano",milan,2026-02-03T22:21:39.248798
+ChIJlyN0ggjChkcR7y62W7arYY0,BENU Farmacia Milano N. 5,pharmacy,45.4563415,9.0913366,3.5,80.0,,"Via Maffeo Bagarotti, 38, Milano",milan,2026-02-03T22:21:39.436515
+ChIJBaa9gQjChkcRLoxXa4cEZ40,Farmacia Municipale 5,pharmacy,45.4563178,9.091250499999997,4.0,1.0,,"Via Maffeo Bagarotti, 40, Milano",milan,2026-02-03T22:21:39.436547
+ChIJwUG7_iTChkcR94EB66wJMMQ,Ambulatorio veterinario dott.ssa Monica Penza,pharmacy,45.4565277,9.1190602,4.7,63.0,,"Via della Capinera, 5, Milano",milan,2026-02-03T22:21:40.730949
+ChIJgZdNpSXChkcRohKZH7KCGWw,BENU Farmacia Milano N. 57,pharmacy,45.4578086,9.121941799999998,3.4,67.0,,"Via Simone Saint Bon, 38, Milano",milan,2026-02-03T22:21:40.841846
+ChIJMWL38S_ChkcRAtKrc3f-92c,Farmacia Nuova Inganni,pharmacy,45.4549126,9.124057100000002,4.3,88.0,,"Via Angelo Inganni, 70, Milano",milan,2026-02-03T22:21:40.841869
+ChIJaUsMSC3ChkcRinZVqqmwLk4,Farmacia Primaticcio 96 Dott. Pantè Federico,pharmacy,45.4543443,9.1331112,4.5,53.0,,"Via Francesco Primaticcio, 96, Milano",milan,2026-02-03T22:21:40.948934
+ChIJo-jNQ9PDhkcRorlCxF961po,Farmacia Dott. Fabio Cattaneo,pharmacy,45.4573917,9.1359794,4.3,90.0,,"Viale San Gimignano, 13A, Milano",milan,2026-02-03T22:21:41.057197
+ChIJF6ssndDDhkcRLhbHIkam8ec,Iemme - Iniziative Milanesi Srl,pharmacy,45.45485710000001,9.1457204,,,,"Via Scipione Riva Rocci, 8, Milano",milan,2026-02-03T22:21:41.173419
+ChIJYb6MdtzDhkcR5477T6KChs4,Farmacia Internazionale Bolivar,pharmacy,45.454754,9.151816400000001,3.7,28.0,,"Piazza Simone Bolivar, 11, Milano",milan,2026-02-03T22:21:41.295884
+ChIJk-4Y_FjDhkcRmO0IyqeU3W8,Farmacia Dei Portici,pharmacy,45.4540669,9.1486325,3.9,34.0,,"Via Lorenteggio, 22, Milano",milan,2026-02-03T22:21:41.295907
+ChIJnWDrdtzDhkcRKVPD8ICl8Vo,alphega farmacia,pharmacy,45.4547448,9.1517753,5.0,1.0,,"Via Lorenteggio, 13, Milano",milan,2026-02-03T22:21:41.295912
+ChIJz-ED4ObDhkcRV5Bmfa6ZS5o,Farmacia Solari,pharmacy,45.4545063,9.1598557,4.4,42.0,,"Via Andrea Solari, 40, Milano",milan,2026-02-03T22:21:41.410942
+ChIJrxfcKdzDhkcRjKatB5bU_Gc,Farmacia Mattalia Dr. Franco,pharmacy,45.4562368,9.154347999999999,4.1,39.0,,"Via Giorgio Washington, 98, Milano",milan,2026-02-03T22:21:41.410988
+ChIJD6N6OeTDhkcRIuLeaDyJY8w,Farmacia Bergognone,pharmacy,45.45364759999999,9.164125400000001,4.6,143.0,,"Via Ambrogio Bergognone da Fossano, 31, Milano",milan,2026-02-03T22:21:41.527346
+ChIJnb4aKwDDhkcRmC-eCULUHzg,Tabaccaio,pharmacy,45.456359,9.1655889,,,,"Via Andrea Solari, 4, Milano",milan,2026-02-03T22:21:41.527390
+ChIJL2-pevzDhkcRhtE3Slj1W3o,Pharmacy Colombo Milan,pharmacy,45.4551792,9.1727566,2.7,12.0,,"Corso Cristoforo Colombo, 1, Milano",milan,2026-02-03T22:21:41.644073
+ChIJdTlCfPvDhkcRJihkupVy_Q8,Farmacia Nazionale dal 1919,pharmacy,45.4544507,9.1711642,4.7,37.0,,"Corso Cristoforo Colombo, 6, Milano",milan,2026-02-03T22:21:41.644115
+ChIJpZiyxvzDhkcR3uEsi-Pr3KM,Lafarmacia. Coni Zugna,pharmacy,45.456077,9.170727199999998,3.6,27.0,,"Viale Coni Zugna, 56, Milano",milan,2026-02-03T22:21:41.644126
+ChIJj6Mh1uLDhkcR8XhN4X3mqtk,Farmacia Olona,pharmacy,45.45727790000001,9.169332400000002,4.0,69.0,,"Viale Coni Zugna, 43, Milano",milan,2026-02-03T22:21:41.644134
+ChIJ9VxQMPzDhkcRGv_F5SSpORo,Farmacia Genova,pharmacy,45.4562138,9.1742756,4.7,53.0,,"Corso Genova, 27, Milano",milan,2026-02-03T22:21:41.785677
+ChIJny3oLPzDhkcRrZPXEuM_h1A,BENU Farmacia Del Corso Dr De Anseris,pharmacy,45.4566316,9.175112,3.6,50.0,,"Corso Genova, 23, Milano",milan,2026-02-03T22:21:41.785729
+ChIJz4qFVwfEhkcRrhniTkK7OuI,Farmacia S.Eustorgio,pharmacy,45.453685,9.180244000000002,3.8,30.0,,"Corso di Porta Ticinese, 98, Milano",milan,2026-02-03T22:21:41.785739
+ChIJuSzeNjHDhkcRejkeXoLDLro,Medi-Market Corso Genova,pharmacy,45.4562813,9.1743387,4.7,100.0,,"Corso Genova, 27, Milano",milan,2026-02-03T22:21:41.785752
+ChIJo-ofMm7DhkcRDU3GvFo6j84,Parafarmaco uniclub,pharmacy,45.4569125,9.17483,,,,"Corso Genova, 22, Milano",milan,2026-02-03T22:21:41.785761
+ChIJPY5ChP_DhkcRpXBnw1NV-LA,Della Cittadella,pharmacy,45.4566373,9.1806907,4.5,36.0,,"Corso di Porta Ticinese, 50, Milano",milan,2026-02-03T22:21:42.906317
+ChIJA40yIALEhkcRv7vlrGsLmD8,Farmacia San Celso - Tamponi Rapidi e Molecolari,pharmacy,45.4569383,9.187352899999999,4.3,107.0,,"Via Crocefisso, 1, Milano",milan,2026-02-03T22:21:43.028624
+ChIJ-dltaR3EhkcRLhakbaW0A6A,Farmacia,pharmacy,45.45669119999999,9.194395600000002,4.0,6.0,,"Corso di Porta Romana, 74, Milano",milan,2026-02-03T22:21:43.144800
+ChIJ83ijVR3EhkcR0xISR0cklaA,Foglia Pharmacy,pharmacy,45.45745960000001,9.1933969,4.1,165.0,,"Corso di Porta Romana, 56, Milano",milan,2026-02-03T22:21:43.144817
+ChIJM-sUox3EhkcR-v5rcbVJBvs,Farmacia CoFa Lamarmora Milano,pharmacy,45.4560345,9.196133300000001,3.6,59.0,,"Via Alfonso Lamarmora, 2, Milano",milan,2026-02-03T22:21:43.144820
+ChIJqRfpRB3EhkcRLvZLxIJQiw4,Farmacia Dr. Max,pharmacy,45.4570087,9.194063,4.2,24.0,,"Corso di Porta Romana, 68, Milano",milan,2026-02-03T22:21:43.144823
+ChIJLzVlUx3EhkcR5NZuQeNKreM,Pharmacy Gloria S.A.S. Of Dott.Ssa Ilaria Cassago & C.,pharmacy,45.457484,9.1934062,4.1,18.0,,"Via San Calimero, 1, Milano",milan,2026-02-03T22:21:43.144826
+ChIJ1dyW_Z_GhkcR3HN1vimwv28,Pharmacy Palazzolo Dr. Daniele Ottavio,pharmacy,45.4570565,9.205089599999999,4.0,16.0,,"Viale Monte Nero, 37, Milano",milan,2026-02-03T22:21:43.383686
+ChIJk09LGSHEhkcRnRKHCX2cNV8,Farmacia Comunale Milano N. 15,pharmacy,45.4538639,9.207691300000002,3.4,22.0,,"Via Pier Lombardo, 19, Milano",milan,2026-02-03T22:21:43.383710
+ChIJz08uoILGhkcRok56X8Zn-84,Farmacie Fiore Dr. Alessandro,pharmacy,45.45580330000001,9.2174022,3.2,30.0,,"Via Gaetano Strigelli, 2, Milano",milan,2026-02-03T22:21:43.489347
+ChIJSYAfIgDHhkcR_HA2lUOzbUE,Farmacia Cadore,pharmacy,45.4575753,9.212991299999999,5.0,3.0,,"Via Cadore, 29, Milano",milan,2026-02-03T22:21:43.489384
+ChIJNZ0BuinEhkcRxysMETcw8sY,BENU Farmacia Milano N. 27,pharmacy,45.4540632,9.219233,3.2,21.0,,"Piazza Imperatore Tito, 8, Milano",milan,2026-02-03T22:21:43.592873
+ChIJSQRJKYLGhkcRLhktxvWJBU4,Farmacia San Camillo,pharmacy,45.4573514,9.2221107,4.0,52.0,,"Piazzale Ferdinando Martini, 3, Milano",milan,2026-02-03T22:21:43.592894
+ChIJv5JW43bGhkcR4yaIAJpD_Pk,Lloyds Farmacia Comunale,pharmacy,45.4563185,9.243082200000002,3.8,39.0,,"Via Mecenate, 8, Milano",milan,2026-02-03T22:21:43.846177
+ChIJ0aGF3t_FhkcRHBr05iJCvBQ,Dietetics Pharma Srl,pharmacy,45.45590139999999,9.243376200000002,,,,"Via Mecenate, 12, Milano",milan,2026-02-03T22:21:43.846199
+ChIJWYPXDwTChkcRfC3qu_cAkN0,Tamoil,pharmacy,45.4601795,9.0960111,4.0,303.0,,"Via delle Forze Armate, 357, Milano",milan,2026-02-03T22:21:46.547180
+ChIJiWRtLQfChkcR5ZwFAWcIdec,Farmacia Gastaldi Snc,pharmacy,45.4609984,9.0920831,4.3,144.0,,"Via Cesare Faccioli, 2, Milano",milan,2026-02-03T22:21:46.547247
+ChIJowpGcATChkcRwwnoYG7VnJQ,BENU Farmacia Milano N. 7,pharmacy,45.46035759999999,9.098166299999999,3.2,90.0,,"Via delle Forze Armate, 328, Milano",milan,2026-02-03T22:21:46.659934
+ChIJATKP6BvChkcRIBbPG87AdDc,BENU Farmacia Milano N. 36,pharmacy,45.45905549999999,9.105604099999997,3.5,22.0,,"Via Nikolajevka, 4, Milano",milan,2026-02-03T22:21:46.768612
+ChIJG6Dkax_ChkcRtfzW_PKaFqE,Farmacia Fontana,pharmacy,45.4607269,9.1121501,3.8,85.0,,"Via delle Forze Armate, 212, Milano",milan,2026-02-03T22:21:46.884847
+ChIJ95bAISfChkcRcKnfqeEYnKQ,Farmacia Dr. Max,pharmacy,45.46106519999999,9.120279299999998,3.7,71.0,,"Via Simone Saint Bon, 2, Milano",milan,2026-02-03T22:21:46.996946
+ChIJEZSGwdTDhkcRlrN2_BdL2X4,Lafarmacia. Campioni,pharmacy,45.45892930000001,9.1368262,4.2,52.0,,"Viale San Gimignano, 30, Milano",milan,2026-02-03T22:21:47.233953
+ChIJ37KFg9fDhkcRuP7kJQc-mwo,Farmacia Santa Caterina Piazza Tripoli Milan,pharmacy,45.459225,9.146452400000001,4.2,79.0,,"Viale Caterina da Forlì, 7, Milano",milan,2026-02-03T22:21:47.343959
+ChIJOd1CFd_DhkcRBVd7LsnKMTg,BENU Farmacia Milano N. 75,pharmacy,45.459497,9.154465,3.5,60.0,,"Via Giorgio Washington, 74, Milano",milan,2026-02-03T22:21:47.461738
+ChIJQ3kjwWHBhkcReDUSZ6mH6Os,Herbal Pharmacy Washington,pharmacy,45.4616884,9.1554114,4.0,30.0,,"Via Sebastiano Caboto, 9, Milano",milan,2026-02-03T22:21:48.590013
+ChIJlWJ9mwvDhkcRuJbZ2c6w1Sg,BENU Farmacia Milano N. 37,pharmacy,45.4606326,9.1574676,3.7,39.0,,"Via Vetta D'Italia, 18, Milano",milan,2026-02-03T22:21:48.590057
+ChIJuRW-FODDhkcRmiRy0iter5c,Farmacia Dr. Max,pharmacy,45.45897519999999,9.160189099999998,2.5,78.0,,"Piazza Vesuvio, 14, Milano",milan,2026-02-03T22:21:48.590066
+ChIJKRvzC1_BhkcRuB8UpxqYZ8U,Tamoil,pharmacy,45.46117759999999,9.163142100000002,3.0,7.0,,"Piazzale Aquileia, 8, Milano",milan,2026-02-03T22:21:48.702930
+ChIJGSVijOHDhkcRbogx30KbvVs,Farmacia Comunale Milano N. 47,pharmacy,45.4586695,9.164029299999997,3.3,25.0,,"Via Vincenzo Foppa, 5, Milano",milan,2026-02-03T22:21:48.702983
+ChIJs8b9jOHDhkcRN7sN0EEeg38,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.4585918,9.1641652,4.0,1.0,,"Via Vincenzo Foppa, 5, Milano",milan,2026-02-03T22:21:48.702993
+ChIJXWLdAOLDhkcRMwOqBFz6TwY,Lafarmacia. San Michele Milano,pharmacy,45.45984579999999,9.165066099999999,4.4,14.0,,"Viale Coni Zugna, 12, Milano",milan,2026-02-03T22:21:48.703001
+ChIJlRXdAOLDhkcRafN7TxFdZo0,Farmacia Dr.Stebe,pharmacy,45.4598571,9.1650834,,,,"Viale Coni Zugna, 12, Milano",milan,2026-02-03T22:21:48.703009
+ChIJ3YKtEv3DhkcRFEyyeqN0ASc,Pharmacy Ariberto S.A.S.,pharmacy,45.4604431,9.174530800000001,4.4,24.0,,"Via Edmondo de Amicis, 51, Milano",milan,2026-02-03T22:21:48.885220
+ChIJMSod_FXBhkcRCupOoku_kKo,Dental Club - Paraf. S. Ambrogio,pharmacy,45.4593194,9.1765035,,,,"Via Edmondo de Amicis, 33, Milano",milan,2026-02-03T22:21:48.885239
+ChIJDw3HGP7DhkcRyGvpi6WN124,Farmacia Sant'Agostino,pharmacy,45.45865879999999,9.1774117,4.1,25.0,,"Via San Vincenzo, 1, Milano",milan,2026-02-03T22:21:48.885247
+ChIJa-_QL1XBhkcRsMlHcHWmxZo,BENU Farmacia Carrobbio,pharmacy,45.46043090000001,9.181873500000002,2.2,89.0,,"Via Stampa, 14, Milano",milan,2026-02-03T22:21:48.992931
+ChIJIfWNHqvGhkcRe4-gtSHiFf4,Farmacia S. Giorgio,pharmacy,45.4612052,9.184795999999999,2.9,36.0,,"Via Torino, 48, Milano",milan,2026-02-03T22:21:48.992948
+ChIJY66bh6rGhkcRLnRwPVt0EpA,Pharmacy Olmetto Dr. Marco Selle,pharmacy,45.4576027,9.1841623,4.3,32.0,,"Via Fernanda Wittgens, 3, Milano",milan,2026-02-03T22:21:48.992952
+ChIJKSwz-__DhkcR46zmekszwhs,Farmacia San Lorenzo,pharmacy,45.458399,9.1808987,4.1,46.0,,"Corso di Porta Ticinese, 24, Milano",milan,2026-02-03T22:21:48.992957
+ChIJqXxiFFXBhkcR4q7prS5KzLY,Farmacia Alleanza,pharmacy,45.460068,9.1805782,3.8,30.0,,"Via Cesare Correnti, 2, Milano",milan,2026-02-03T22:21:48.992961
+ChIJsQD7-KvGhkcRnB-fohgCDyg,Farmacia Carlo Alberto S.a.s. della Dr.ssa Peviani Alessandra e C.,pharmacy,45.46245529999999,9.1884093,4.3,69.0,,"Via Giuseppe Mazzini, 12, Milano",milan,2026-02-03T22:21:49.075317
+ChIJYebu2qvGhkcRYB_4afzWEAE,Farmacia Missori Snc,pharmacy,45.4604905,9.188849900000001,3.7,53.0,,"Piazza Giuseppe Missori, Via Paolo da Cannobio, 3, Milano",milan,2026-02-03T22:21:49.075338
+ChIJdQq85KvGhkcR9e2uiNlPcXY,Fastpharma arredamento per farmacie,pharmacy,45.462195,9.1884218,5.0,1.0,,"Via Giuseppe Mazzini, 16, Milano",milan,2026-02-03T22:21:49.075346
+ChIJ1wZB4KjGhkcR1CFqUh4Bcdc,Farmacia Reale,pharmacy,45.4612879,9.191618499999999,3.3,34.0,,"Via Larga, 16, Milano",milan,2026-02-03T22:21:49.151725
+ChIJJac7tajGhkcRmvq-cB1Wfy0,Lafarmacia. Del Duomo,pharmacy,45.46253249999999,9.1934897,3.9,57.0,,"Via Larga, 6, Milano",milan,2026-02-03T22:21:49.151747
+ChIJOYe9z6DGhkcRgNfWgbErmTI,UOC Farmacia | Policlinico • Ospedale Maggiore,pharmacy,45.4588217,9.200085600000001,4.1,14.0,,"Via della Commenda, 9, Milano",milan,2026-02-03T22:21:49.253256
+ChIJL7rMmZjGhkcRYRy-yqsxgho,Pharmacy Ferrarini SNC,pharmacy,45.46176299999999,9.2071785,3.3,179.0,,"Piazza Cinque Giornate, 6, Milano",milan,2026-02-03T22:21:49.367437
+ChIJPemz6pjGhkcRd_HRliO0SrI,Farmacia Cinque Giornate,pharmacy,45.4623642,9.2077637,3.2,90.0,,"Piazza Cinque Giornate, 7, Milano",milan,2026-02-03T22:21:49.367465
+ChIJj8uAcp_GhkcRtpg2z7RQMPQ,Farmacia Monte Nero,pharmacy,45.4595106,9.2067612,4.5,22.0,,"Viale Monte Nero, 59, Milano",milan,2026-02-03T22:21:49.367471
+ChIJUWnexJ7GhkcRg2xAB37EZcw,Farmacia Sacchi,pharmacy,45.4604924,9.209400100000002,4.9,29.0,,"Via Augusto Anfossi, 9, Milano",milan,2026-02-03T22:21:49.367474
+ChIJa-vHKYPGhkcRTKMMXh1af1c,Farmacia Umbria,pharmacy,45.4580891,9.217130200000001,4.6,62.0,,"Viale Umbria, 109, Milano",milan,2026-02-03T22:21:49.483795
+ChIJg-6PLZvGhkcR8luLdeIhx4c,Farmacia Moizio,pharmacy,45.4623966,9.2176786,3.6,67.0,,"Corso Ventidue Marzo, 37, Milano",milan,2026-02-03T22:21:50.605764
+ChIJqVI7hfvGhkcRaRnEEk0pFxE,Tonelli Baby Care,pharmacy,45.4623966,9.2176786,,,,"Corso Ventidue Marzo, 37, Milano",milan,2026-02-03T22:21:50.605813
+ChIJYQDCLZvGhkcRmou1uLU0DSA,10 Farmacia,pharmacy,45.4623966,9.2176786,5.0,1.0,,"Corso Ventidue Marzo, 37, Milano",milan,2026-02-03T22:21:50.605825
+ChIJ4-VdKYTGhkcRNAa8s39vwzU,Antica Farmacia del Verziere,pharmacy,45.462068,9.223519800000002,4.0,89.0,,"Corso Ventidue Marzo, 52, Milano",milan,2026-02-03T22:21:50.716631
+ChIJZ5xBgofGhkcRFMT50DB9fe8,FARMACIA,pharmacy,45.4620046,9.229088599999999,4.5,2.0,,"Viale Corsica, 46, Milano",milan,2026-02-03T22:21:50.818599
+ChIJJ-wC0HDGhkcRl8XNmyNa1RU,Farmacia Ovidio - Rete Club Salute,pharmacy,45.4585746,9.242039300000002,4.4,107.0,,"Via Toscolano, 1, Milano",milan,2026-02-03T22:21:50.926803
+ChIJA9uStHHGhkcRjAJeZyOhD6c,Farmacia Forlanini di Cotta Paolo,pharmacy,45.46154599999999,9.244096499999998,4.8,51.0,,"Viale Enrico Forlanini, 50, Milano",milan,2026-02-03T22:21:51.043005
+ChIJCZclS6bIhkcREozo6cerlVY,Farmacia Aeroporto Linate srl,pharmacy,45.4614152,9.2793596,4.2,51.0,,"Aeroporto di Linate, Milano",milan,2026-02-03T22:21:51.379209
+ChIJBbVsHXLGhkcR89VjQbGSZVY,Farmacia Sciortino,pharmacy,45.46138250000001,9.2786638,3.6,9.0,,"aereoporto di linate snc, Segrate",milan,2026-02-03T22:21:51.379260
+ChIJuy199_7phkcRwcff2XlaWUc,BENU Farmacia Milano N. 39,pharmacy,45.46334770000001,9.087178999999999,4.2,40.0,,"Piazza Anita Garibaldi, 8, Milano",milan,2026-02-03T22:21:52.666308
+ChIJeeCwKijChkcRrVsg5Mu0P4I,Farmacia Segre - CEF La Farmacia Italiana,pharmacy,45.462922,9.1276421,4.1,26.0,,"Via Francesco Primaticcio, 217, Milano",milan,2026-02-03T22:21:53.157648
+ChIJsVgrmIDBhkcRWhgBSpZikPs,BENU Farmacia Milano N. 25,pharmacy,45.46316059999999,9.1325792,3.2,80.0,,"Via delle Forze Armate, 44, Milano",milan,2026-02-03T22:21:54.299772
+ChIJAQ-ksX_BhkcR5hfhKletELg,Farmacia Fra’ Galgario,pharmacy,45.46370809999999,9.139427300000001,4.2,44.0,,"Via delle Forze Armate, 4, Milano",milan,2026-02-03T22:21:54.409141
+ChIJaQv7YX7BhkcReWUn1g_MVWI,Tamoil,pharmacy,45.4642558,9.1419621,3.5,55.0,,"Via Privata Moncalvo, 1, Milano",milan,2026-02-03T22:21:54.525574
+ChIJb8eqGHzBhkcRAbt0V_6QNAo,Farmacia trivulzio,pharmacy,45.4652532,9.143532299999999,4.1,42.0,,"Via Antonio Tolomeo Trivulzio, 28, Milano",milan,2026-02-03T22:21:54.525607
+ChIJmQC0oWTBhkcRzliXgOkd1gU,BENU Farmacia Milano N. 68 24H,pharmacy,45.4659728,9.150851300000001,3.2,230.0,,"Piazza de Angeli Ernesto, 1, Milano",milan,2026-02-03T22:21:54.647125
+ChIJk9FMS2LBhkcRKNrMcg9gigE,Farmacia Sardegna,pharmacy,45.4633285,9.152493,4.4,27.0,,"Via Sardegna, 31, Milano",milan,2026-02-03T22:21:54.647160
+ChIJx_kTVHvBhkcRqjjtQgOgwEQ,CD Pharma group s.r.l.,pharmacy,45.46622780000001,9.1489003,3.0,4.0,,"Piazza de Angeli Ernesto, 7, Milano",milan,2026-02-03T22:21:54.647170
+ChIJa9P8-GDBhkcRYJmh7seFGkk,Tamoil,pharmacy,45.4638705,9.1570767,3.5,57.0,,"Via Elba, 20, Milano",milan,2026-02-03T22:21:54.763942
+ChIJVVUF3GDBhkcRvf6xuunXDvY,Verathon Medical Europe,pharmacy,45.4641774,9.1579709,,,,"Via Domenico Cimarosa, 26, Milano",milan,2026-02-03T22:21:54.763974
+ChIJO-BXa2fBhkcRZ-shYMirPz0,Farmacia Corso Vercelli,pharmacy,45.46663299999999,9.159810799999999,2.8,23.0,,"Via Francesco Cherubini, 2, Milano",milan,2026-02-03T22:21:54.882922
+ChIJ6yIptV3BhkcRTUZQXlZftYs,Farmacia CoFa Vercelli Milano,pharmacy,45.4661051,9.163923700000002,3.9,29.0,,"Corso Vercelli, 5, Milano",milan,2026-02-03T22:21:54.882941
+ChIJMZYF4FnBhkcRIzkegpTkcL0,Lafarmacia. Dell'Ospedale San Giuseppe,pharmacy,45.4630214,9.1719277,3.8,40.0,,"Via San Vittore, 12, Milano",milan,2026-02-03T22:21:55.004255
+ChIJ9Ua3bVzBhkcR_N8aILvbgHg,Farmacia Santa Teresa,pharmacy,45.4661129,9.1661734,3.1,115.0,,"Corso Magenta, 96, Milano",milan,2026-02-03T22:21:55.004292
+ChIJJw4ZXFHBhkcRY8lAFN5d_qc,Farmacia CoFa Sant'Agnese Milano,pharmacy,45.4650787,9.1776098,4.1,23.0,,"Via Sant'Agnese, 3, Milano",milan,2026-02-03T22:21:55.111741
+ChIJFcffq1HBhkcRTfphJNaHLRQ,Farmacia Schiavio,pharmacy,45.466105,9.1763233,4.4,28.0,,"Corso Magenta, 32, Milano",milan,2026-02-03T22:21:55.111791
+ChIJIUW_hqvGhkcR1hrxibmVucc,Lafarmacia. Penati Beltrade,pharmacy,45.46280489999999,9.1864787,3.3,34.0,,"Piazza Santa Maria Beltrade, Milano",milan,2026-02-03T22:21:55.188130
+ChIJ-7n3YVLBhkcREo4PFBgQ_HI,Farmacia Cairoli - Farmacie Stilo Milano,pharmacy,45.466775,9.181550999999999,3.0,84.0,,"Via San Giovanni sul Muro, 9, Milano",milan,2026-02-03T22:21:55.188171
+ChIJgVzLY6zGhkcRY1twmbygkRQ,Central Pharmacy S.N.C.,pharmacy,45.4637444,9.186757400000001,4.1,33.0,,"Via Spadari, 13, Milano",milan,2026-02-03T22:21:55.188178
+ChIJ4YE1J63GhkcRba15BnCHbRE,Farmacia Cordusio,pharmacy,45.4655219,9.1853291,3.8,33.0,,"Via Santa Maria Segreta, 6, Milano",milan,2026-02-03T22:21:55.188186
+ChIJNVjfKazGhkcRcjGhqer1-1c,Farmacia Boots Carlo Erba,pharmacy,45.46483179999999,9.189366699999999,3.1,239.0,,"Piazza del Duomo, 21, Milano",milan,2026-02-03T22:21:55.300872
+ChIJNdeHFazGhkcRsUnEQdgRkjw,Pharmacy Duomo Milan,pharmacy,45.4641086,9.188388199999999,3.5,105.0,,"Via Orefici, 2, Milano",milan,2026-02-03T22:21:55.300901
+ChIJLwbcoK3GhkcRfuISYj-YaqM,Lafarmacia. Centro Milano,pharmacy,45.4658386,9.186231599999997,4.0,87.0,,"Via Broletto, 1, Milano",milan,2026-02-03T22:21:55.300910
+ChIJB8o6Qq_GhkcRRDq2VhYAsws,World Pharm Resource Srl - Wi.P.R.,pharmacy,45.46347,9.19404,5.0,1.0,,"13/SC.A Via Plinio Caio Secondo, Milano, MI 20129",milan,2026-02-03T22:21:56.392431
+ChIJl5_BRaTGhkcRK4F1VNWUOUA,Farmacia Ponte Vittoria di Orietta Lojercio C. Snc,pharmacy,45.46336890000001,9.1987222,4.8,78.0,,"Via U, Via Uberto Visconti di Modrone, 1, Milano",milan,2026-02-03T22:21:56.392448
+ChIJbUiuq-LHhkcRylWa8YZn6Iw,BENU Farmacia Milano Largo Augusto,pharmacy,45.4627867,9.1968247,3.9,21.0,,"Largo Augusto, 8, Milano",milan,2026-02-03T22:21:56.392467
+ChIJI2qZxaXGhkcR43LZtC_gZ3I,Farmacia Ortolan,pharmacy,45.4627867,9.1968247,3.3,4.0,,"Largo Augusto, 8, Milano",milan,2026-02-03T22:21:56.392471
+ChIJ8TC2uq_GhkcRFxoYnoZC8No,Farmacia Liberty,pharmacy,45.4658447,9.1932701,3.5,90.0,,"Galleria Sala dei Longobardi, Via San Paolo, 13, Milano",milan,2026-02-03T22:21:56.392474
+ChIJ0axVH6XGhkcR3QQF81U87Z4,Farmacia Boots San Babila,pharmacy,45.4656469,9.197498200000002,3.8,123.0,,"Galleria Passarella, 1, Milano",milan,2026-02-03T22:21:56.392479
+ChIJ_Tj4nKTGhkcRGix-c_HnS6g,Società Cooperativa Farmaceutica,pharmacy,45.464723,9.2013761,4.2,12.0,,"Via Passione, 8, Milano",milan,2026-02-03T22:21:56.503645
+ChIJ8YO2LaLGhkcRG1uhLR9FGXk,Pharmacy Vittoria Milan,pharmacy,45.4621838,9.203605900000001,3.8,18.0,,"Via Fontana, 1, Milano",milan,2026-02-03T22:21:56.503673
+ChIJlxKCMbvGhkcRdmdYpG-_bH0,Farmacia Monforte Snc,pharmacy,45.4669578,9.199983099999999,3.4,8.0,,"Corso Monforte, 19, Milano",milan,2026-02-03T22:21:56.503683
+ChIJxV6ICJjGhkcRebvM5PsFYpQ,Farmacia Premuda,pharmacy,45.4654232,9.207569199999998,3.9,50.0,,"Via Pasquale Sottocorno, 1, Milano",milan,2026-02-03T22:21:56.619460
+ChIJPY_tapnGhkcRuVKRr-MI0PM,Farmacia XXII Marzo,pharmacy,45.4624069,9.210943,3.2,53.0,,"Corso Ventidue Marzo, 23, Milano",milan,2026-02-03T22:21:56.619506
+ChIJz81QiJjGhkcRNlBwr7I36p8,Farmacia Remotti,pharmacy,45.4635216,9.207774399999998,4.7,35.0,,"Viale Premuda, 10, Milano",milan,2026-02-03T22:21:56.619515
+ChIJJSmLYZjGhkcRFk_NgTkdNdg,Resultime Farmacia Omeopatia,pharmacy,45.46371560000001,9.2079182,,,,Italy,milan,2026-02-03T22:21:56.619522
+ChIJ8UNxmZvHhkcRwlhWocRoNlk,Pharma shop 24h,pharmacy,45.4624216,9.210479099999999,2.2,5.0,,Milan,milan,2026-02-03T22:21:56.619538
+ChIJVbZOFJnGhkcRprfgcWtD8g0,Farmacia Ventrini,pharmacy,45.46241749999999,9.210506100000002,,,,"Via Pietro Calvi, 31, Milano",milan,2026-02-03T22:21:56.619545
+ChIJ4TqkwpnGhkcRGuSYiI7vN1I,Archimede Pharmacy,pharmacy,45.4650734,9.211599500000002,3.6,95.0,,"Via Archimede, 20, Milano",milan,2026-02-03T22:21:56.619553
+ChIJmUjioprGhkcRbV1qXVtANiU,Fondazioni Guido Muralti,pharmacy,45.46429349999999,9.217696599999998,,,,"Viale Piceno, 18, Milano",milan,2026-02-03T22:21:56.713950
+ChIJE8pydoXGhkcRfIUZgTJBeWI,BENU Farmacia Milano N. 65,pharmacy,45.4640159,9.2211581,3.3,31.0,,"Via Marcona, 72, Milano",milan,2026-02-03T22:21:56.827404
+ChIJXRf_1YfGhkcRO0hEPSSG30w,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.464499,9.227960600000001,3.3,3.0,,"Via Luisa Battistotti Sassi, 24, Milano",milan,2026-02-03T22:21:56.945129
+ChIJDz23WojGhkcRqJkWCtbyO5w,Reddy Pharma Italia S.P.A.,pharmacy,45.4660974,9.228677099999999,,,,"Via Filippo Caronti, 9/P01, Milano",milan,2026-02-03T22:21:56.945160
+ChIJ3-kBV33GhkcRm3x78awAWV0,BENU Farmacia Milano N. 23,pharmacy,45.46380569999999,9.230396899999999,3.0,50.0,,"Via Monte Suello, 1, Milano",milan,2026-02-03T22:21:56.945165
+ChIJl5fCnYfGhkcR2O3mraKivCQ,Farmacia Toschi Dr. Aldo,pharmacy,45.4619951,9.2287682,3.5,36.0,,"Viale Corsica, 42, Milano",milan,2026-02-03T22:21:56.945169
+ChIJvfHS14fGhkcRmLfYt8slyQQ,Farmacia Comunale Milano N. 71,pharmacy,45.4643561,9.227968699999998,3.2,24.0,,"Via Luisa Battistotti Sassi, 24, Milano",milan,2026-02-03T22:21:56.945173
+ChIJoTzPdfHBhkcRV2AvPEPkPPA,Farmacia Sant'Elena,pharmacy,45.47126779999999,9.108757099999998,4.1,84.0,,"Via Fratelli Zoia, 84, Milano",milan,2026-02-03T22:22:00.017497
+ChIJYQAjboPBhkcRTp6cPhOrF-s,BENU Farmacia Milano N. 24,pharmacy,45.46909910000001,9.1333161,4.0,109.0,,"Via Mario Morgantini, 25, Milano",milan,2026-02-03T22:22:00.263740
+ChIJ17SA24PBhkcR5H8d7g0Lo2k,Farmacia Rembrandt,pharmacy,45.46728,9.134407999999999,3.9,78.0,,"Via Rembrandt, 49, Milano",milan,2026-02-03T22:22:00.263780
+ChIJIfx80YXBhkcRjTOHWqi7RiY,Farmacia Melozzo Da Forli',pharmacy,45.4678483,9.129221999999999,4.6,74.0,,"Via Novara, 3, Milano",milan,2026-02-03T22:22:00.263791
+ChIJpUED2oPBhkcRRa9l4-cqaww,Farmacia Dietetica,pharmacy,45.46731979999999,9.134459699999999,5.0,2.0,,"Via Rembrandt, 49, Milano",milan,2026-02-03T22:22:00.263799
+ChIJGV2S3XjBhkcRWLWWhmQAqiU,BENU Farmacia Milano N.52,pharmacy,45.46782099999999,9.140723,3.1,45.0,,"Piazzale Diego Velasquez, 7, Milano",milan,2026-02-03T22:22:00.374833
+ChIJZ5NhaXjBhkcRQhm1JE0HHI8,Farmacia Dr. Max,pharmacy,45.47000269999999,9.140227399999999,4.3,28.0,,"Via Saverio Altamura, 20, Milano",milan,2026-02-03T22:22:00.374885
+ChIJV3P7l3vBhkcRbXvkaiHPIRY,Farmacia Boots Ranzoni,pharmacy,45.4674653,9.146215399999997,3.5,114.0,,"Viale Daniele Ranzoni, 2, Milano",milan,2026-02-03T22:22:00.515029
+ChIJefLeW2TBhkcRzYNJhHhbJ_4,FARMACIA Ravizza - Farmacie Stilo Milano,pharmacy,45.46733760000001,9.152965300000002,3.4,87.0,,"Via Marghera, 18, Milano",milan,2026-02-03T22:22:00.632106
+ChIJCxitj2XBhkcRDh17RZA54ME,Farmacia dr. Carnevale,pharmacy,45.4697224,9.154128499999999,4.3,33.0,,"Via Raffaello Sanzio, 2, Milano",milan,2026-02-03T22:22:00.749469
+ChIJg8yGXmnBhkcRRtHRbXqYafg,Lafarmacia. Wagner,pharmacy,45.46758309999999,9.1549874,3.3,60.0,,"Via Michelangelo Buonarroti, 5, Milano",milan,2026-02-03T22:22:00.749524
+ChIJS__R9EfBhkcRq7-Am4SN9s8,AlfaMedic Pillole,pharmacy,45.4709976,9.1550578,,,,"Via Michelangelo Buonarroti, 33, Milano",milan,2026-02-03T22:22:00.749536
+ChIJi7AjYYHBhkcReVD78S24uPc,Blumedico Italy,pharmacy,45.4709976,9.1550578,,,,"Via Michelangelo Buonarroti, 33, Milano",milan,2026-02-03T22:22:00.749544
+ChIJxfhg_VzBhkcRP7SXL4SUjpw,Farmacia Legnani,pharmacy,45.4677429,9.164289000000002,4.4,670.0,,"Via Giovanni Rasori, 2, Milano",milan,2026-02-03T22:22:00.863118
+ChIJsYyYsk3ohkcRYPcSuKE-kzw,Lafarmacia. Tommaseo,pharmacy,45.4701,9.165429999999999,4.4,30.0,,"Via Lorenzo Mascheroni, 16, Milano",milan,2026-02-03T22:22:00.863166
+ChIJLVLrGFvBhkcRR30JmUK7FCs,Farmacia Boccaccio,pharmacy,45.4677781,9.169826,3.1,348.0,,"Via Giovanni Boccaccio, 26, Milano",milan,2026-02-03T22:22:01.977813
+ChIJDejKGVvBhkcROPtapJDsaIU,Farmacia Cerini snc dei dr Davide e Marco,pharmacy,45.46930029999999,9.1716964,5.0,24.0,,"Via Aurelio Saffi, 6, Milano",milan,2026-02-03T22:22:01.977837
+ChIJn70zM1DBhkcRIh26rHi_yUs,Farmacia Cadorna,pharmacy,45.46767990000001,9.1760896,3.2,33.0,,"Piazzale Luigi Cadorna, 11, Milano",milan,2026-02-03T22:22:02.089887
+ChIJraruWK3GhkcRg_KMRzcXGOc,Broletto,pharmacy,45.4677122,9.185789300000001,4.3,44.0,,"Via Broletto, 30, Milano",milan,2026-02-03T22:22:02.166559
+ChIJxdbA7bLGhkcRhrTCqhUJA_k,Lafarmacia. Dell'Orso Milano,pharmacy,45.46905020000001,9.187854500000002,4.4,25.0,,"Via dell'Orso, 1, Milano",milan,2026-02-03T22:22:02.274446
+ChIJIx9hPevGhkcRKqJscX-vMjo,Farmacia del Carmine dott. Maione Giovanni,pharmacy,45.4709197,9.1842415,3.5,10.0,,"Via Mercato, 1, Milano",milan,2026-02-03T22:22:02.274471
+ChIJF2hbcbHGhkcR_S6YQBH34dI,Pharmacy Manzoni Milan,pharmacy,45.4697118,9.1927152,3.9,22.0,,"Via Bigli, 28, Milano",milan,2026-02-03T22:22:02.374469
+ChIJv3z677rGhkcROtchJwqynuo,Farmacia San Babila,pharmacy,45.46871299999999,9.1986716,4.0,48.0,,"Via della Spiga, 2, Milano",milan,2026-02-03T22:22:02.374493
+ChIJFVvNCrHGhkcRt1jU-s18a7k,Cooperativa Farmaceutica 7,pharmacy,45.4697259,9.192746399999999,3.7,3.0,,"Via Bigli, 28, Milano",milan,2026-02-03T22:22:02.374500
+ChIJu8Os-brGhkcRQdCe-kZb3FM,Farmacia Senato - Farmacie Stilo Milano,pharmacy,45.46909249999999,9.199384199999999,3.0,45.0,,"Via Senato, 2, Milano",milan,2026-02-03T22:22:02.509366
+ChIJQa-cFr3GhkcRUZl2SaoQj5o,Foresteria Monforte S.R.L.,pharmacy,45.46752710000001,9.206207700000002,,,,"Piazza del Tricolore, Milano",milan,2026-02-03T22:22:02.509395
+ChIJgX9NEb3GhkcRvw3BrcCkvZ4,Farmacia Filorga,pharmacy,45.4675666,9.206229100000002,,,,"Piazza del Tricolore, Milano",milan,2026-02-03T22:22:02.509405
+ChIJUxbOsJfGhkcRvGhbnlecYh4,Farmacia Concordia,pharmacy,45.46774689999999,9.2100657,4.1,14.0,,"Corso Concordia, 16, Milano",milan,2026-02-03T22:22:02.637840
+ChIJJYFzFL3GhkcRYraqF2v7QtM,Nn,pharmacy,45.467567,9.206378,3.3,15.0,,"Piazza del Tricolore, 2, Milano",milan,2026-02-03T22:22:02.637864
+ChIJxcGBDr3GhkcRQrlzvaeE720,Gaboardi Giansandro,pharmacy,45.46820199999999,9.2065285,,,,"Piazza del Tricolore, 1, Milano",milan,2026-02-03T22:22:02.637870
+ChIJA1KDLpfGhkcRbJRiG2HnVHc,Farmacia Italia,pharmacy,45.467527,9.2134912,3.0,23.0,,"Corso Indipendenza, 14, Milano",milan,2026-02-03T22:22:02.769488
+ChIJK7m38ZPGhkcRxMNGqrzNXuw,Stilo Costantino,pharmacy,45.4709111,9.215624900000002,4.7,3.0,,"Via Gustavo Modena, 25, Milano",milan,2026-02-03T22:22:02.769506
+ChIJP5SMSZHGhkcRFjVOxh_7dgs,Farmacia Castelmorrone,pharmacy,45.4691643,9.215054799999997,4.3,40.0,,"Via Castel Morrone, 6, Milano",milan,2026-02-03T22:22:02.769511
+ChIJ42PIIpTGhkcRfXxXU1PcY3M,FARMACIA,pharmacy,45.4708775,9.213404599999999,3.0,1.0,,"Via Gustavo Modena, 8, Milano",milan,2026-02-03T22:22:02.769515
+ChIJk0CZ8auNhkcRIJwYTWivUoY,Farmacia Scientifica Dr. Rebuffini Anna Maria,pharmacy,45.4709023,9.213440499999999,3.8,12.0,,"Via Ciro Menotti, 18, Milano",milan,2026-02-03T22:22:02.769519
+ChIJz7o1xpHGhkcRzBJbe0F-WOI,Farmacia Plebisciti S.n.c.,pharmacy,45.46820679999999,9.2184966,3.7,34.0,,"Corso Plebisciti, 7, Milano",milan,2026-02-03T22:22:02.769522
+ChIJ4_7P75PGhkcRInxKxmh1igE,Farmacia Igea - Farmacie Stilo Milano,pharmacy,45.4709092,9.2157738,4.4,87.0,,"Via Gustavo Modena, 25, Milano",milan,2026-02-03T22:22:02.769526
+ChIJmey48ZPGhkcRNnQiz5Wn71Y,Esseline Official Shop_Osc srl,pharmacy,45.47092910000001,9.2156311,5.0,1.0,,"Via Gustavo Modena, 25, Milano",milan,2026-02-03T22:22:02.769530
+ChIJAwHsE47GhkcR7QTNLWBUk-Q,Omeocom,pharmacy,45.46884239999999,9.221291199999998,,,,"Via Leopoldo Cicognara, 7, Milano",milan,2026-02-03T22:22:02.878559
+ChIJ3X4r-47GhkcRhUWa0QXI6oU,Farmacia Susa,pharmacy,45.46752559999999,9.2234102,3.1,94.0,,"Piazzale Susa, 6, Milano",milan,2026-02-03T22:22:02.878577
+ChIJ68L9jIvGhkcR2PK9_hcozHI,Beato angelico,pharmacy,45.4707792,9.227614299999999,4.1,87.0,,"Via Cesare Saldini, 4, Milano",milan,2026-02-03T22:22:02.988662
+ChIJJfZHzonGhkcRa4U1_Eo0uPM,Argonne Farmacia,pharmacy,45.4672079,9.2303759,3.4,109.0,,"Via Lomellina, 64, Milano",milan,2026-02-03T22:22:02.988679
+ChIJO0AvE2LGhkcRXrewPFKk4Mg,Lloyds Farmacia Comunale,pharmacy,45.4677257,9.232272300000004,3.5,76.0,,"Via Negroli, 55, Milano",milan,2026-02-03T22:22:04.109993
+ChIJjSBfeIrGhkcRXNsKEqWz-34,BENU Farmacia Milano N. 62,pharmacy,45.4706043,9.2322121,4.2,46.0,,"Via Illirico, 11, Milano",milan,2026-02-03T22:22:04.110049
+ChIJtcRBhzrHhkcRPH2tEKzkqdA,Parafarmacia Dott.ssa Antonia Chiavuzzi,pharmacy,45.4691476,9.234571800000001,5.0,13.0,,"Via Ferdinando Marescalchi, 11, Milano",milan,2026-02-03T22:22:04.110063
+ChIJBQQ7eYrGhkcRqtKBxfmOe5c,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.4706043,9.2322121,5.0,2.0,,"Via Illirico, 11, Milano",milan,2026-02-03T22:22:04.110071
+ChIJ_b9HrWHGhkcRQPxwmOz_1DE,Farmacia Amadeo sas del dott. Tommaso Latella,pharmacy,45.4708508,9.234717400000001,4.2,59.0,,"Via Giovanni Antonio Amadeo, 40, Milano",milan,2026-02-03T22:22:04.110079
+ChIJxTphbybqhkcRE4isBngkGvQ,Farmacia Seguro,pharmacy,45.47270750000001,9.0605713,4.3,419.0,,"Via Tommaso Edison, 5, Settimo Milanese",milan,2026-02-03T22:22:04.636440
+ChIJMW8Z2PHBhkcR0JTBRoL0CVM,BENU Farmacia Milano N. 22,pharmacy,45.4741205,9.1095731,4.1,51.0,,"Via Fratelli Zoia, 43, Milano",milan,2026-02-03T22:22:06.125294
+ChIJ6y0WJ-7BhkcRri1-YI-TEz0,Quarta Eta',pharmacy,45.473907,9.109308600000002,,,,"Via Fratelli Zoia, 43, Milano",milan,2026-02-03T22:22:06.125316
+ChIJVT2kcZLBhkcRqLT7FfR_AFg,Farmacia Novara,pharmacy,45.4727109,9.120229300000002,3.8,71.0,,"Via Novara, 90, Milano",milan,2026-02-03T22:22:06.226871
+ChIJv1c11pPBhkcRPzbNeJYYsys,BENU Farmacia Milano N. 20,pharmacy,45.475063,9.123654,4.1,30.0,,"Piazza Axum, 5, Milano",milan,2026-02-03T22:22:06.345030
+ChIJ1_LTv4_BhkcRGJeXR_CoXRc,Pinchet Rx Srl,pharmacy,45.4713787,9.1258238,,,,"Via Don Carlo Gnocchi, 24, Milano",milan,2026-02-03T22:22:06.345051
+ChIJ_SL57P8tVUARA-hUdWZ6nYY,St Francis Veterinary Hospital,pharmacy,45.473479,9.133497199999999,4.3,1576.0,,"Via Isaac Newton, 2, Milano",milan,2026-02-03T22:22:06.461750
+ChIJlS5qNJvBhkcR5evQnZsuDqE,Farmacia San Matteo,pharmacy,45.4723205,9.132147899999998,4.2,22.0,,"Via Matteo Civitali, 41, Milano",milan,2026-02-03T22:22:06.461782
+ChIJZX0IdADBhkcRzHA2cw9-xio,Farmacia,pharmacy,45.472326,9.1342837,,,,"Via Privata Preneste, 6, Milano",milan,2026-02-03T22:22:06.461787
+ChIJF9AvcnvBhkcR_l6HkADx_uo,Farmacia Sant'Anna,pharmacy,45.4735787,9.134077000000001,4.6,60.0,,"Via Pier Alessandro Paravia, 73, Milano",milan,2026-02-03T22:22:06.461791
+ChIJ9QuhzILBhkcRNI1csTgMXIc,Farmacia Selinunte,pharmacy,45.4720351,9.1381892,4.5,33.0,,"Piazzale Selinunte, 4, Milano",milan,2026-02-03T22:22:06.583619
+ChIJaRaG1XfBhkcRCs6BxVjsFMQ,BENU Farmacia Milano N. 74,pharmacy,45.473652,9.140162,4.0,22.0,,"Piazza Monte Falterona, 3, Milano",milan,2026-02-03T22:22:06.583659
+ChIJsURBbnfBhkcRjj2vdk86WQo,Farmacia Grilli S.A.S,pharmacy,45.47204809999999,9.143529899999999,4.9,44.0,,"Via Carlo Dolci, 6, Milano",milan,2026-02-03T22:22:07.720159
+ChIJL8vUhnnBhkcRotC6q1aUj6g,Blumedico,pharmacy,45.47378679999999,9.1433977,,,,"Viale Murillo, 17, Milano",milan,2026-02-03T22:22:07.720188
+ChIJiUpifnbBhkcRYPwGuAqJOBE,Gehe Italia S.P.A,pharmacy,45.4758352,9.143732199999999,,,,"Piazzale Fratelli Zavattari, 4, Milano",milan,2026-02-03T22:22:07.720199
+ChIJA09MfnbBhkcRCeknfoUI6yk,Farmacia Comunale Milano N. 80,pharmacy,45.4758352,9.143732199999999,3.5,21.0,,"Piazzale Fratelli Zavattari, 4, Milano",milan,2026-02-03T22:22:07.720206
+ChIJf758Km7BhkcRRlMv3vPtnVc,Farmacia Giulio Cesare,pharmacy,45.47304139999999,9.1515459,4.0,49.0,,"Via Monte Rosa, 27, Milano",milan,2026-02-03T22:22:07.828938
+ChIJieDpTnHBhkcR8s_4c5VSQbs,Farmacia Monte Rosa - Rete Club Salute,pharmacy,45.47564390000001,9.148135,4.1,37.0,,"Via Eleuterio Pagliano, Milano",milan,2026-02-03T22:22:07.828984
+ChIJy7cuY2nBhkcRl4rssJE1oP0,Farmacia Cassiodoro,pharmacy,45.47442789999999,9.160196899999999,3.6,24.0,,"Viale Cassiodoro, 12, Milano",milan,2026-02-03T22:22:08.024159
+ChIJT94snPjBhkcRDqg2n5HDytU,Farmacia V Alpini Sas di Perreca Patrizia & C.,pharmacy,45.4718364,9.1672447,4.2,38.0,,"Largo 5º Alpini, n. 1, Milano",milan,2026-02-03T22:22:08.024186
+ChIJR4PankvBhkcR8zNZHOsxp_A,Farmacia Sanitas Milano,pharmacy,45.4738467,9.183346900000002,4.7,27.0,,"Corso Garibaldi, 49, Milano",milan,2026-02-03T22:22:08.321387
+ChIJNeZFhUzBhkcRyJ3Zi0CLqm0,Pharmacy Pontaccio Milan,pharmacy,45.47225160000001,9.1842344,3.4,51.0,,"Via Pontaccio, 22, Milano",milan,2026-02-03T22:22:08.321412
+ChIJZ7lNh7TGhkcRXkEDtCccj3s,Antica Farmacia di Brera,pharmacy,45.47248310000001,9.188215000000001,4.0,48.0,,"Via Fiori Oscuri, 3, Milano",milan,2026-02-03T22:22:08.430306
+ChIJ0_WkI7XGhkcRXGLjpP5WKDI,Farmacia S.A.L.V.I.,pharmacy,45.4752168,9.188586599999999,2.7,24.0,,"Via San Marco, 18, Milano",milan,2026-02-03T22:22:08.430325
+ChIJCfcsxrnGhkcR4waIolma4kA,Tamoil,pharmacy,45.4731647,9.1994519,3.0,32.0,,"Via Palestro, 5, Milano",milan,2026-02-03T22:22:08.558123
+ChIJF3Nrzpa_hkcR3OCgDQNFq94,Farmacia Comotti,pharmacy,45.4730713,9.195155699999999,3.0,78.0,,"Piazza Cavour, 5, Milano",milan,2026-02-03T22:22:08.558149
+ChIJWdxtm7_GhkcR7mmBus_Kt6Q,Farmacia Malpighi,pharmacy,45.4748768,9.2080929,4.2,27.0,,"Via Marcello Malpighi, 12, Milano",milan,2026-02-03T22:22:09.759406
+ChIJT8nzXb_GhkcRNUBmOEzkcq0,Farmacia Formaggia,pharmacy,45.4752835,9.206131,3.6,187.0,,"Corso Buenos Aires, 4, Milano",milan,2026-02-03T22:22:09.759472
+ChIJl_WsYL7GhkcR0ZnDB6Qilq0,Farmacia Dott. De Luca Snc Del Dott. Augusto E Francesco,pharmacy,45.4720752,9.2072558,3.1,24.0,,"Via Nino Bixio, 1, Milano",milan,2026-02-03T22:22:09.759483
+ChIJKRzpDb_GhkcRV5kzJq_E-Hw,Farmacia Antica Farmacia Diana del Dr. Damioli Silvio,pharmacy,45.4741578,9.2067389,3.5,68.0,,"Piazza Guglielmo Oberdan, 4, Milano",milan,2026-02-03T22:22:09.759488
+ChIJIa1COZPGhkcRfKv5mLEphx8,BENU Farmacia Milano N. 48,pharmacy,45.474134,9.217483399999999,3.5,38.0,,"Viale Abruzzi, 4, Milano",milan,2026-02-03T22:22:09.881853
+ChIJ-cwtjZTGhkcRJLIkxr-V0bs,Farmacia Ambrosiana,pharmacy,45.4730054,9.2142304,3.5,33.0,,"Viale Regina Giovanna, 42 angolo Piazza Maria Adelaide Di Savoia, angolo, Via Nino Bixio, Milano",milan,2026-02-03T22:22:09.881872
+ChIJb-ugk5TGhkcRjB7VUKKLyHc,Kappa Sistemi Srl,pharmacy,45.47338269999999,9.214448500000001,,,,"Piazza Maria Adelaide di Savoia, 5, Milano",milan,2026-02-03T22:22:09.881877
+ChIJw3WewsfHhkcRCNhlHmOpyOI,Farmacia Umanitaria - Farmacie Stilo Milano,pharmacy,45.47511300000001,9.213287,3.5,37.0,,"Via Achille Maiocchi, 14, Milano",milan,2026-02-03T22:22:09.881881
+ChIJCXudwfLGhkcR3ulO97JP9QE,Farmacia Viale Romagna,pharmacy,45.4724005,9.2234344,4.5,27.0,,"Viale Romagna, 25, Milano",milan,2026-02-03T22:22:09.993283
+ChIJOb3QzuzGhkcRyTJavj78BFs,Regalia Dr. Alessandra,pharmacy,45.4749828,9.217622600000002,,,,"Via Amedeo D'Aosta, 9, Milano",milan,2026-02-03T22:22:09.993300
+ChIJgXTVNYvGhkcRkJErLneybSI,Tamoil,pharmacy,45.4735951,9.228886,3.4,66.0,,"Via Sandro Botticelli, 23/A, Milano",milan,2026-02-03T22:22:10.104408
+ChIJqzce6fLGhkcRZmxv_4ZalL4,BENU Farmacia Milano N. 3,pharmacy,45.47534830000001,9.224109099999998,4.2,26.0,,"Viale Romagna, 58, Milano",milan,2026-02-03T22:22:10.104444
+ChIJiaTOKvXGhkcRkaBLPnKR6yE,Farmacia Rossetto,pharmacy,45.4736991,9.230566099999999,3.7,51.0,,"Piazzale Paolo Gorini, 14, Milano",milan,2026-02-03T22:22:10.104449
+ChIJ3To2d2DGhkcRljUl__U_O5A,Lafarmacia. Città Studi,pharmacy,45.4731097,9.235222700000001,4.2,53.0,,"Largo Oreste Murani, 2, Milano",milan,2026-02-03T22:22:10.218614
+ChIJOer7bIDrhkcR84lC3HovKQE,Parafarmacia ÈQUI Settimo Milanese,pharmacy,45.4788333,9.061805599999998,4.0,6.0,,"Via Reiss Romoli, 16, Settimo Milanese",milan,2026-02-03T22:22:11.771128
+ChIJv3lBqwjqhkcRP-O42P6aiI8,BENU Farmacia Milano N. 6,pharmacy,45.47662589999999,9.0886587,4.2,34.0,,"Piazza Giosia Monti, 9, Milano",milan,2026-02-03T22:22:11.990746
+ChIJ_eq4hnTBhkcRbmSvhFWU3Pw,Farmacia Manelli - Tripharma,pharmacy,45.4783237,9.147332399999998,4.5,53.0,,"Via Guglielmo Silva, 39, Milano",milan,2026-02-03T22:22:13.649167
+ChIJxaR-B7zBhkcRGsNFJ0qVuOA,BENU Salute Milano Citylife,pharmacy,45.4781147,9.1564202,3.6,62.0,,"Piazza Tre Torri, 1L, Milano",milan,2026-02-03T22:22:13.825342
+ChIJW19EA2vBhkcR_1brt1hZyJE,Farmacia Orio - Valore Salute,pharmacy,45.47765080000001,9.1615724,4.1,43.0,,"Piazza Sei Febbraio, 16, Milano",milan,2026-02-03T22:22:13.930909
+ChIJH1Duf-bBhkcRpd9X4qCUCW0,Farmacia Sempione di Gheza & C.,pharmacy,45.4767111,9.1707108,4.0,19.0,,"Corso Sempione, 5, Milano",milan,2026-02-03T22:22:14.042593
+ChIJ57dmSkfBhkcRO9M_1PNPF8o,Pharmacy Sempione Milan,pharmacy,45.47649369999999,9.171981299999999,4.0,20.0,,"Piazza Sempione, 8, Milano",milan,2026-02-03T22:22:14.042614
+ChIJDRlkZDjBhkcRehorJ1CrXLw,Farmacia Canonica Milano,pharmacy,45.4790109,9.174518899999999,4.3,119.0,,"Via Luigi Canonica, 32, Milano",milan,2026-02-03T22:22:14.153878
+ChIJAQDMmUfBhkcRJMqPo1BMzEk,FARMALOGICA,pharmacy,45.4772354,9.1739908,,,,"Via Agostino Bertani, 6, Milano",milan,2026-02-03T22:22:14.153907
+ChIJ_RKjBEjBhkcRz4nb3Iiw4ew,Farmacia CoFa Canonica Milano,pharmacy,45.4778018,9.1769425,4.5,24.0,,"Via Luigi Canonica, 6, Milano",milan,2026-02-03T22:22:14.153918
+ChIJCVlzITbBhkcRcvso7XGBDQk,Lafarmacia. Lega Lombarda,pharmacy,45.4774506,9.1790805,4.0,32.0,,"Viale Elvezia, 6, Milano",milan,2026-02-03T22:22:14.153926
+ChIJi_9XaErBhkcREHtRhq4ZGlo,Garibaldi Pharmacy,pharmacy,45.47642,9.183850999999997,4.0,32.0,,"Corso Garibaldi, 83, Milano",milan,2026-02-03T22:22:15.292989
+ChIJb49vljXBhkcRbqrW0OqCIZI,Farmacia Raimondi,pharmacy,45.4781959,9.1842612,3.7,43.0,,"Largo la Foppa, 1, Milano",milan,2026-02-03T22:22:15.293032
+ChIJU6DykErBhkcRrTNq5jSmnVg,Farmafactoring Spv I S.r.l.,pharmacy,45.4766345,9.185739899999998,,,,"Via Statuto, n. 10, Milano",milan,2026-02-03T22:22:15.293038
+ChIJO111TDXBhkcRKV8ozBccZVI,Farmacia Solferino della Dott.ssa Miranda Floriana & C.,pharmacy,45.47803399999999,9.187991,4.0,29.0,,"Via Solferino, 25, Milano",milan,2026-02-03T22:22:15.409648
+ChIJz1LQRrXGhkcRbeQ30CcbOiQ,Baroni Farma Sas,pharmacy,45.47606929999999,9.1886522,,,,"Via San Marco, 24, Milano",milan,2026-02-03T22:22:15.409677
+ChIJYYLQSjXBhkcRk5MetqMnZUE,Farmacia Dr. Max,pharmacy,45.4780387,9.187991799999997,3.9,24.0,,"Via Solferino, 25, Milano",milan,2026-02-03T22:22:15.409687
+ChIJ9_v98rXGhkcRCcPaHAtTvSY,Farmacia Gabbiani,pharmacy,45.47665709999999,9.191982099999999,4.3,24.0,,"Via della Moscova, 22, Milano",milan,2026-02-03T22:22:15.409695
+ChIJX8nCtcvGhkcRMIMGyIQFBBc,Farmacia Fatebenefratelli,pharmacy,45.4795258,9.1915957,3.8,76.0,,"Piazzale Principessa Clotilde, 1, Milano",milan,2026-02-03T22:22:15.527948
+ChIJK3B1wMvGhkcR5k8kbG2XiCg,Pharmacy Monte Santo,pharmacy,45.4797945,9.1936935,3.9,83.0,,"Piazzale Principessa Clotilde, 8, Milano",milan,2026-02-03T22:22:15.527975
+ChIJE68uusjGhkcRMlWP158ojGA,Farmacia Repubblica,pharmacy,45.47970549999999,9.199909699999997,3.6,130.0,,"Viale Tunisia, 41, Milano",milan,2026-02-03T22:22:15.649145
+ChIJLxCJFsbGhkcRVf8n91tj_0Q,Farmacia Braccio,pharmacy,45.47968599999999,9.201708,4.6,31.0,,"Via Felice Casati, 32, Milano",milan,2026-02-03T22:22:15.649171
+ChIJy3FsaMfGhkcRqDETUfRnzYk,Antica Farmacia del Lazzaretto,pharmacy,45.4765028,9.203719399999999,4.4,45.0,,"Via Panfilo Castaldi, Via Lecco, 29, Milano",milan,2026-02-03T22:22:15.649179
+ChIJby32psHGhkcRQvakGLWsKc0,Perlier Kelemata,pharmacy,45.4785007,9.208921399999998,4.2,26.0,,"Corso Buenos Aires, 25, Milano",milan,2026-02-03T22:22:15.764309
+ChIJiZMKgOrGhkcR2ZWFf7y1IcU,Tamoil,pharmacy,45.4775122,9.211501000000002,3.5,89.0,,"VIA MORGAGNI, Via Giuseppe Broggi, 16, Milano",milan,2026-02-03T22:22:15.764336
+ChIJ1y_g8sDGhkcRoxvodhd49V8,Farmacia Boots Buenos Aires,pharmacy,45.4778045,9.2087552,4.1,52.0,,"Corso Buenos Aires, 22, Milano",milan,2026-02-03T22:22:15.764347
+ChIJ2xpnt-vGhkcRY9Sh9tiruy4,Lafarmacia. Eustachi,pharmacy,45.478269,9.2150312,3.7,44.0,,"Via Alessandro Stradella, 1, Milano",milan,2026-02-03T22:22:15.881550
+ChIJ1a_qf-vGhkcRqloBzBEr6WM,Lafarmacia. Abruzzi,pharmacy,45.4764353,9.21757,3.9,38.0,,"Via Plinio, 46, Milano",milan,2026-02-03T22:22:15.881568
+ChIJF4CpGurGhkcRrxBm2_gIrC8,Farmacia Plinio,pharmacy,45.4792962,9.21261,4.2,25.0,,"Via Plinio, 11, Milano",milan,2026-02-03T22:22:15.881572
+ChIJ05ATisHGhkcRfrsW4mWcZoA,Farmacia Baldini dott. Tommaso Latella,pharmacy,45.47996089999999,9.210364100000001,4.4,43.0,,"Corso Buenos Aires, 39, Milano",milan,2026-02-03T22:22:15.881577
+ChIJu3NAGcLGhkcRPqIOnDcXlfY,Pharmacy Lima Milan,pharmacy,45.4800535,9.2114127,3.9,34.0,,"Via Plinio, 1, Milano",milan,2026-02-03T22:22:15.881581
+ChIJX8PF8unGhkcRgpwR3c9lAAs,Pedrini Natura,pharmacy,45.480299,9.2135962,3.5,2.0,,"Via Federico Ozanam, Milano",milan,2026-02-03T22:22:15.881584
+ChIJ1c2zzfPGhkcR-lQkHUUH8yg,Tamoil,pharmacy,45.47798439999999,9.2240343,3.8,43.0,,"VIALE ROMAGNA, Piazza Leonardo da Vinci, SNC, Milano",milan,2026-02-03T22:22:15.994478
+ChIJnwX3--vGhkcR_7Qat2y97ww,Farmacia Sansovino,pharmacy,45.4792308,9.217547399999999,4.0,55.0,,"Via Sansovino, 1, Milano",milan,2026-02-03T22:22:15.994509
+ChIJd0mWG-7GhkcRUCqn0EhbTAg,Farmacia Dr. Paolo Calo',pharmacy,45.4799014,9.2230667,3.3,46.0,,"Piazzale Gabrio Piola, 1, Milano",milan,2026-02-03T22:22:16.108468
+ChIJSVJR1ETGhkcRCTZV4V1nR9Q,Farmacia Rubattino,pharmacy,45.479418,9.245547199999999,4.5,160.0,,"Via Riccardo Pitteri, 93, Milano",milan,2026-02-03T22:22:17.377592
+ChIJqwlkGFvGhkcRvTGea6q_lMc,Benu Farmacia,pharmacy,45.47919170000001,9.245630600000002,,,,"Via Riccardo Pitteri, 93, Milano",milan,2026-02-03T22:22:17.377673
+ChIJu771SjzqhkcRHo9raADzZ3g,Timor & Sanz S.r.l.,pharmacy,45.4804417,9.0691077,,,,"Via E. Fermi, 46/N, Cesano Boscone",milan,2026-02-03T22:22:17.754703
+ChIJ24yhhQrBhkcRyQbHiuOp-W8,Modiano D. Ssa Clara,pharmacy,45.48259100000001,9.143766500000002,4.1,37.0,,"Piazza Carlo Stuparich, 4, Milano",milan,2026-02-03T22:22:19.525949
+ChIJYcxHhQrBhkcR-Da4PS-5bPI,Omeopatia,pharmacy,45.4825217,9.1436614,,,,"Piazza Carlo Stuparich, 4, Milano",milan,2026-02-03T22:22:19.526001
+ChIJ6XIxFxLBhkcRv8ZtrN9I5uc,BENU Farmacia Milano N. 66,pharmacy,45.4835438,9.156403,3.4,62.0,,"Via Alcuino, 18, Milano",milan,2026-02-03T22:22:20.707021
+ChIJYZC_RVLBhkcRG4bwwDYb2Pw,Tamoil,pharmacy,45.4832119,9.1592623,3.8,50.0,,"Via Arona, 14/A, Milano",milan,2026-02-03T22:22:20.707053
+ChIJbRzbWxHBhkcRJYXlB6t6urw,Farmacia Canossa - Farmacie Stilo Milano,pharmacy,45.48451060000001,9.159931499999997,4.0,64.0,,"Corso Sempione, 67, Milano",milan,2026-02-03T22:22:20.822946
+ChIJj-M6gRbBhkcRkEnhj0z0930,Farmacia Castelvetro S.N.C. di Tagliabue Emiliano e Pozzo Francesca,pharmacy,45.4840532,9.163803000000003,4.3,24.0,,"Via Piero della Francesca, 38, Milano",milan,2026-02-03T22:22:20.822966
+ChIJN7c2PD7BhkcRwM74i5E0uUg,Farmacia Farinatti,pharmacy,45.4821387,9.167221799999998,3.2,26.0,,"Via Piero della Francesca, 3, Milano",milan,2026-02-03T22:22:20.822977
+ChIJMcT72D7BhkcR421T5237OSk,Farmacia Mariscotti Dott Luigi,pharmacy,45.4811195,9.170489199999999,2.7,19.0,,"Via Paolo Sarpi, 62, Milano",milan,2026-02-03T22:22:20.939048
+ChIJT9SfIzzBhkcRltqmvmvJU-M,Lafarmacia. Procaccini,pharmacy,45.4837739,9.170711599999999,3.6,46.0,,"Via Giulio Cesare Procaccini, 28, Milano",milan,2026-02-03T22:22:20.939070
+ChIJg9qASNfBhkcRG4s9IiNGNcE,Para Farmacia,pharmacy,45.481766,9.1708095,5.0,2.0,,"Via Giovanni Battista Bertini, 9, Milano",milan,2026-02-03T22:22:20.939075
+ChIJ3c2iLjnBhkcRl6_A0mz9SIU,Farma Vita,pharmacy,45.4811482,9.1720913,,,,"Via Paolo Sarpi, 52, Milano",milan,2026-02-03T22:22:20.939079
+ChIJFbdlUjnBhkcR9eBlUbZREYA,Come Srl,pharmacy,45.4825232,9.1723774,,,,"Via Giovanni Battista Bertini, 18, Milano",milan,2026-02-03T22:22:20.939082
+ChIJ9d2bIjnBhkcRn7jOatfC3f8,Farmacia Angolo della Salute,pharmacy,45.4809614,9.173214500000002,4.4,51.0,,"Via Paolo Sarpi, 53, Milano",milan,2026-02-03T22:22:20.939086
+ChIJF-HoQzfBhkcRo_pqSRLi3fU,Pharmacy Paolo Sarpi,pharmacy,45.4813392,9.1761944,3.8,70.0,,"Via Paolo Sarpi, 25, Milano",milan,2026-02-03T22:22:21.057473
+ChIJicjiuh3BhkcRXg8pYaifNK8,同仁本草堂,pharmacy,45.4816032,9.174318399999999,3.0,9.0,,"Via Aleardo Aleardi, 1, Milano",milan,2026-02-03T22:22:21.057491
+ChIJUYCflznBhkcRZVsUJakf65M,Kang ning Erboristeria,pharmacy,45.4818249,9.175632199999999,5.0,6.0,,"Via Messina, 3, Milano",milan,2026-02-03T22:22:21.057495
+ChIJZ9GNEjTBhkcRlIva5h03HVc,Farmacia Pasubio,pharmacy,45.4814606,9.1851886,3.7,107.0,,"Viale Pasubio, 6/8, Milano",milan,2026-02-03T22:22:21.175360
+ChIJnRmE0TbBhkcR--n__JJ4IE0,Pharmacy Baiamonti Milan,pharmacy,45.4820407,9.181280700000002,4.0,23.0,,"Piazzale Antonio Baiamonti, 1, Milano",milan,2026-02-03T22:22:21.175381
+ChIJx9nLIzHBhkcRjsQJnJopvEE,Farmacia Giannone Srl,pharmacy,45.483691,9.181495,3.4,26.0,,"Via Carlo Farini, 5, Milano",milan,2026-02-03T22:22:21.175386
+ChIJQzLkxDTBhkcRTyxgclZeoV8,Farmacia Dr. Max,pharmacy,45.483518,9.1894218,3.1,63.0,,"Piazza Gae Aulenti, Milano",milan,2026-02-03T22:22:21.286809
+ChIJV73kzs7GhkcR7t3qFVlQpDw,Farmacia Galileo Di Palmisano V. E Hassan M. Snc,pharmacy,45.4816373,9.1972814,3.6,20.0,,"Via Vincenzo Viviani, 2, Milano",milan,2026-02-03T22:22:21.400714
+ChIJ7e7qDs_GhkcRJszFaPFZgmA,Farmacia Humanitas,pharmacy,45.4830067,9.199726400000003,3.0,32.0,,"Via Fabio Filzi, 10, Milano",milan,2026-02-03T22:22:21.511518
+ChIJRfJKaAkyVUAR0j6ixCUKvJo,Pharmacy Pisani 26,pharmacy,45.4834539,9.202333099999999,4.5,30.0,,"Via Vittor Pisani, 26, Milano",milan,2026-02-03T22:22:21.511536
+ChIJrwXKecTGhkcRY3t5prDPpeg,Vitruvio Pharmacy,pharmacy,45.48221969999999,9.206790900000001,4.0,49.0,,"Via Vitruvio, 39, Milano",milan,2026-02-03T22:22:21.627243
+ChIJwRE5iKrHhkcRzJ2Ttacq4y8,Farmacia Milano,pharmacy,45.4811505,9.208749899999999,4.2,45.0,,"Via Vitruvio, 11, Milano",milan,2026-02-03T22:22:21.627265
+ChIJ-fHG2P3HhkcRtlQjot5-5rQ,Farmacia Sigra S.r.l.,pharmacy,45.48108850000001,9.208886399999999,,,,"Via Vitruvio, 11, Milano",milan,2026-02-03T22:22:21.627271
+ChIJu6sYZ8PGhkcRj8qxEe7FOa0,Farmacia Dr. Max,pharmacy,45.4839119,9.2080308,4.5,58.0,,"Via Luigi Settembrini, 39, Milano",milan,2026-02-03T22:22:21.627277
+ChIJB4_RUOjGhkcR9vxzEIrmdis,Chemist Dr. Adele Mazzoleni & C snc,pharmacy,45.48322049999999,9.214413,4.3,77.0,,"Via Nicola Piccinni, 1/3, Milano",milan,2026-02-03T22:22:21.741865
+ChIJj8Ee3-fGhkcRmaapqwS-gfM,Farmacia Ambreck,pharmacy,45.4845531,9.215672200000002,3.6,808.0,,"Via Antonio Stradivari, 1, Milano",milan,2026-02-03T22:22:21.741890
+ChIJOZifDenGhkcRpW-74OkIVtc,Farmacia Internazionale,pharmacy,45.48103039999999,9.2166763,3.3,34.0,,"Via Carlo Matteucci, 4, Milano",milan,2026-02-03T22:22:21.741894
+ChIJA6u9f8LGhkcR5CNBWRUsCME,Farmacia Dr. Max,pharmacy,45.4822839,9.212702400000001,3.8,79.0,,"Corso Buenos Aires, 55, Milano",milan,2026-02-03T22:22:21.741900
+ChIJg43gzPHGhkcRgjZNMNHuW-s,Parafarmacia San Riccardo,pharmacy,45.480965,9.2249672,4.4,28.0,,"Via Antonio Bazzini, 1, Milano",milan,2026-02-03T22:22:22.886408
+ChIJcTTWtvDGhkcRkEoF5-QCYkQ,Farmacia Bramante,pharmacy,45.4821453,9.2294998,3.7,68.0,,"Via Giovanni Pacini, 30, Milano",milan,2026-02-03T22:22:23.000204
+ChIJn1djkffGhkcR7t_4rWwgeeQ,Farmacia Caldarini Roda Dr. Alberto,pharmacy,45.48195519999999,9.234148,4.1,48.0,,"Via Antonio Grossich, 15, Milano",milan,2026-02-03T22:22:23.115184
+ChIJ2S8bavjGhkcRkEhMK1z8vhQ,Lafarmacia. Lambrate,pharmacy,45.484091,9.234959700000001,4.3,95.0,,"Via Giovanni Pacini, 70, Milano",milan,2026-02-03T22:22:23.115196
+ChIJIWkM31nGhkcRzkaICXazhaM,Lafarmacia. San Martino,pharmacy,45.4821968,9.2403624,4.3,80.0,,"Viale delle Rimembranze di Lambrate, 18, Milano",milan,2026-02-03T22:22:23.220192
+ChIJE8PuEDDGhkcRmNi5GHRnfRw,Farmacia Comunale 1,pharmacy,45.48102149999999,9.2696237,3.8,46.0,,"Via delle Regioni, 36, Segrate",milan,2026-02-03T22:22:23.522691
+ChIJa4914MbBhkcR79c6wGzmtMQ,FARMACIA VETERINARIA,pharmacy,45.4878299,9.118475900000002,4.5,20.0,,"Via Giulio Natta, 20, Milano",milan,2026-02-03T22:22:25.216347
+ChIJAxjuPqTBhkcRo9Y6JCJCR0A,Farmacia Santa Maria Nascente in quartiere QT8,pharmacy,45.4872161,9.1375199,3.0,44.0,,"Via Pergine, 2, Milano",milan,2026-02-03T22:22:26.472353
+ChIJd3-VOafBhkcRgfsQOkA3-wY,Farmacia QT8 Dottori Mastrota & Longhini,pharmacy,45.4861679,9.142359399999998,4.8,58.0,,"Via Collecchio, 4, Milano",milan,2026-02-03T22:22:26.582377
+ChIJ8UARvwjBhkcR8Uup7z1n3BU,Farmacia Serra,pharmacy,45.4886421,9.149719200000002,4.4,25.0,,"Viale Renato Serra, 52, Milano",milan,2026-02-03T22:22:26.690714
+ChIJYfnKLBDBhkcR5AF5EWKXn4I,Farmacia Firenze S.R.L.,pharmacy,45.4868814,9.156618500000002,3.9,93.0,,"Via Ruggero di Lauria, 22, Milano",milan,2026-02-03T22:22:26.799025
+ChIJZ6Qc3hHBhkcRYdkMueTNQXk,Parafarmacia Erboristeria Planta Officinalis,pharmacy,45.4856363,9.1559885,4.9,69.0,,"Via Ruggero di Lauria, 5, Milano",milan,2026-02-03T22:22:26.799069
+ChIJ97OBhg_BhkcRM6yLTjlIYRM,Stallergenes Italia Srl,pharmacy,45.4890456,9.154382100000001,,,,"Viale Certosa, 2, Milano",milan,2026-02-03T22:22:26.799082
+ChIJ9fYFyRDBhkcRjBePzE_etY4,Pharmacy Motta,pharmacy,45.4873066,9.161603999999997,4.2,25.0,,"Piazza Carlo Caneva, 3, Milano",milan,2026-02-03T22:22:26.916823
+ChIJUWtA6hfBhkcROJM4t4N5CTA,Farmacia Cenisio,pharmacy,45.4870329,9.166621899999999,4.3,88.0,,"Via San Galdino, 11, Milano",milan,2026-02-03T22:22:26.916879
+ChIJ7_FfMRjBhkcRWKQg7Lya44E,BENU Farmacia Milano N. 72,pharmacy,45.4884644,9.1677759,3.8,35.0,,"Via Gran San Bernardo, 6, Milano",milan,2026-02-03T22:22:27.032901
+ChIJ6yA3ky3BhkcR3ubXl5ikRMo,Farmacia Archinto,pharmacy,45.4875171,9.1869719,4.8,123.0,,"Piazzale Carlo Archinto, 1, Milano",milan,2026-02-03T22:22:27.299027
+ChIJdyXLAy3BhkcRhlFSU5BGibc,Sitelco Service Sas,pharmacy,45.4887886,9.1892176,,,,"Via Pietro Borsieri, 28, Milano",milan,2026-02-03T22:22:27.299046
+ChIJgcZ0VSzBhkcRn_w_mRASOHs,Lafarmacia. Castoldi,pharmacy,45.4890731,9.1888256,3.2,77.0,,"Via Luigi Porro Lambertenghi, 25, Milano",milan,2026-02-03T22:22:27.299051
+ChIJg-01VCzBhkcRC0APQhX2h2w,Farmacie Milano,pharmacy,45.4890869,9.188808500000002,3.3,3.0,,"Via Luigi Porro Lambertenghi, 25, Milano",milan,2026-02-03T22:22:27.299054
+ChIJ4VFl7dHGhkcRjrwFjenN9uk,Farmacia Humanitas,pharmacy,45.48692759999999,9.197621299999998,3.5,14.0,,"Via Melchiorre Gioia, 43, Milano",milan,2026-02-03T22:22:28.422774
+ChIJ0SCKJNPGhkcROnFN2YZoMYE,Farmacia San Giovanni della Dr.ssa Costa Antonella,pharmacy,45.4886945,9.193910299999997,3.9,52.0,,"Via Pola, 13/N1, Milano",milan,2026-02-03T22:22:28.422831
+ChIJ5UrcWcXGhkcRP-mtZOnT_Ac,Farmacia Boots Stazione Centrale,pharmacy,45.4864107,9.2039054,4.1,371.0,,"Piazza IV Novembre, Milano",milan,2026-02-03T22:22:28.539477
+ChIJB2Djx9rGhkcRXj9g6T96tgc,Benessere di Francesca Angelini,pharmacy,45.4860429,9.203965799999999,3.3,39.0,,"Piazza Duca d'Aosta, Milano",milan,2026-02-03T22:22:28.539524
+ChIJOdYFGdzGhkcRqphHardvpHE,Tamoil,pharmacy,45.4889486,9.2103836,3.5,77.0,,"Viale Brianza, 27, Milano",milan,2026-02-03T22:22:28.762484
+ChIJWdYspOfGhkcRvFpqiD_JCf0,Pharmacy Loreto Dr. Greco Antonio,pharmacy,45.48654139999999,9.2162258,3.0,149.0,,"Piazzale Loreto, 7, Milano",milan,2026-02-03T22:22:28.762514
+ChIJa45isd3GhkcRkFCnP6sCBmY,Lafarmacia. Brianza,pharmacy,45.4878214,9.2121061,3.4,84.0,,"Viale Brianza, 23, Milano",milan,2026-02-03T22:22:28.762519
+ChIJtxjks93GhkcR2UwArh1367s,Euphidra,pharmacy,45.4878442,9.2120853,3.0,1.0,,"Viale Brianza, 23, Milano",milan,2026-02-03T22:22:28.762524
+ChIJvYQn9-TGhkcRnxMuOy3bQtg,Farmacia De Poli,pharmacy,45.4861689,9.222716600000002,4.3,52.0,,"Via Nicola Antonio Porpora, 51, Milano",milan,2026-02-03T22:22:28.872736
+ChIJo2OZ1_rGhkcRKoM9Io35ecY,BENU Farmacia Milano N.50,pharmacy,45.48595780000001,9.226186799999999,3.7,65.0,,"Via Andrea Maria Ampère, 87, Milano",milan,2026-02-03T22:22:28.983081
+ChIJw3CyZ-PGhkcReVV_Fs1lX9w,Lloyds Farmacia Comunale,pharmacy,45.4888765,9.2251088,3.7,19.0,,"Via Casoretto, 1, Milano",milan,2026-02-03T22:22:28.983102
+ChIJrVbsnePGhkcRrX0BjYwE_Rc,Tamoil,pharmacy,45.4892433,9.223807,3.8,188.0,,"PIAZZA DURANTE/ANG, Via Ruggero Leoncavallo, 34, Milano",milan,2026-02-03T22:22:28.983106
+ChIJwXkCQfzGhkcRO0vx01zNMqg,BENU Farmacia Milano N. 28,pharmacy,45.4881478,9.230090299999999,3.2,34.0,,"Via Teodosio, 74, Milano",milan,2026-02-03T22:22:28.983110
+ChIJ36Hiz_vGhkcRZq1CMuRNkr4,Farmacia Porpora,pharmacy,45.48596550000001,9.230672300000002,3.3,67.0,,"Via Nicola Antonio Porpora, 148, Milano",milan,2026-02-03T22:22:28.983114
+ChIJ4aFkE_nGhkcRakiUuRVgKVw,BENU Farmacia Milano N. 77,pharmacy,45.4862631,9.234329899999999,3.6,35.0,,"Via Monte Nevoso, 1, Milano",milan,2026-02-03T22:22:29.093691
+ChIJw_F6av_GhkcRKxAM9b623Oc,BENU Farmacia Milano N. 69,pharmacy,45.4888199,9.2369654,3.4,28.0,,"Via Ronchi, 31, Milano",milan,2026-02-03T22:22:29.218795
+ChIJfQgJiVbGhkcRXjP7z93YRJQ,Farmacia Rombon Di Racca Dott.Ssa Annarosa,pharmacy,45.486394,9.24077,4.1,79.0,,"Via Rombon, 29, Milano",milan,2026-02-03T22:22:29.218839
+ChIJa3z5ijPGhkcREsKeNFDG4rQ,Gmm Farma S.r.l.,pharmacy,45.4862359,9.2665297,,,,"Via Lambretta, 2, Segrate",milan,2026-02-03T22:22:30.514777
+ChIJLV8xGGoIOxMR9ZjWJ7qqFts,Linfa Farmacie,pharmacy,45.4862641,9.2666906,2.7,51.0,,"Via Lambretta, 2, Segrate",milan,2026-02-03T22:22:30.514800
+ChIJnXBCrkPqhkcR5uzswrCvkTE,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.493059,9.0732643,1.6,5.0,,"Via Fratelli Zanzottera, 12, Milano",milan,2026-02-03T22:22:30.813172
+ChIJzXfPsUPqhkcRZdnqVaSAjrY,BENU Farmacia Milano N. 49,pharmacy,45.4930746,9.0734344,3.8,8.0,,"Via Fratelli Zanzottera, 12, Milano",milan,2026-02-03T22:22:30.813201
+ChIJdUxp7NjBhkcRXnEFryAJVG4,BENU Farmacia Milano N. 44,pharmacy,45.4904054,9.1007268,3.4,30.0,,"Piazza Rosa Scolari, 3, Milano",milan,2026-02-03T22:22:31.079284
+ChIJFzkHUcXBhkcR9edX7ykAu38,Lafarmacia. Madonnina,pharmacy,45.49263430000001,9.111726400000002,4.0,73.0,,"Via Ugo Betti, 42b, Milano",milan,2026-02-03T22:22:32.277793
+ChIJTfzi48fBhkcRbL63H-DWYkA,BENU Farmacia Milano N. 81,pharmacy,45.4909566,9.1219211,4.3,34.0,,"Via Luigi Chiarelli, 10, Milano",milan,2026-02-03T22:22:32.385738
+ChIJ2wThvgfBhkcRbvN17skM_rU,Farmacia Al Portello,pharmacy,45.49117639999999,9.147436800000001,3.2,74.0,,"Via Grosotto, 5, Milano",milan,2026-02-03T22:22:32.711859
+ChIJx_cZIQfBhkcRgMPnDIBBVKE,Farmacia Fusco - Rete Club Salute,pharmacy,45.49345870000001,9.149251099999997,4.3,52.0,,"VIA G.B.BODONI, 19, Milano",milan,2026-02-03T22:22:32.827247
+ChIJY9gAvQTBhkcR3NamX11rSxg,BENU Farmacia Milano N. 14,pharmacy,45.49306409999999,9.1565842,3.5,76.0,,"Via Grigna, 9, Milano",milan,2026-02-03T22:22:32.942475
+ChIJIehO6hnBhkcR6NiBWr6XJg4,Pharmacy Mac Mahon,pharmacy,45.4896898,9.1640434,3.9,116.0,,"Via Principe Eugenio, 19, Milano",milan,2026-02-03T22:22:33.069515
+ChIJL5lg4i7BhkcR2BcDgLXgE1o,Farmacia Farini S.n.c,pharmacy,45.4901932,9.1830363,4.2,32.0,,"Via Arnaldo da Brescia, 1, Milano",milan,2026-02-03T22:22:34.306836
+ChIJ4927xSvBhkcRcs9nlVDrSR8,Farmacia Santa Maria Alla Fontana,pharmacy,45.49240409999999,9.1888533,4.4,42.0,,"Via Genova Thaon di Revel, 12, Milano",milan,2026-02-03T22:22:34.431955
+ChIJo_lHHCnBhkcRSBUmgPbCkNU,Farmacia Maccioni,pharmacy,45.4935275,9.184757099999999,4.1,86.0,,"Via Carlo Farini, 69, Milano",milan,2026-02-03T22:22:34.431996
+ChIJEVjgtdTGhkcRpGAGPetOVO4,FARMACIA DR. MADIA,pharmacy,45.49208669999999,9.193053299999997,4.4,501.0,,"Viale Zara, 38, Milano",milan,2026-02-03T22:22:34.551061
+ChIJs8Z30NDGhkcR8PLS4_lRGCk,Pharmacy Tonale Ribaldone,pharmacy,45.4897776,9.201608399999998,4.4,56.0,,"Via Tonale, 26, Milano",milan,2026-02-03T22:22:34.665319
+ChIJ__-PVtbGhkcRUKawf-BXhws,Farmacia Rosa,pharmacy,45.4928705,9.201290799999999,,,,"Piazza Carbonari, 12, Milano",milan,2026-02-03T22:22:34.665369
+ChIJpWZJItrGhkcR8J_CKpyVo98,Farmacia Ponteseveso,pharmacy,45.48972049999999,9.205226799999998,4.0,25.0,,"Via Giovanni Schiaparelli, 4, Milano",milan,2026-02-03T22:22:34.665378
+ChIJp58yeNnGhkcR4wlSwL5c4Mg,Tamoil,pharmacy,45.490414,9.2069877,3.1,133.0,,"Viale Lunigiana, 1, Milano",milan,2026-02-03T22:22:34.784539
+ChIJ97murtnGhkcRpVXHiIuPfnU,BENU Farmacia Milano N. 59,pharmacy,45.4914619,9.2058153,3.7,28.0,,"Viale Lunigiana, 8, Milano",milan,2026-02-03T22:22:34.784591
+ChIJsbHH5eDGhkcRH0R6vrhaY-4,Farmacia Berta,pharmacy,45.4908762,9.217848499999997,4.3,202.0,,"Viale Monza, 43/B, Milano",milan,2026-02-03T22:22:34.926969
+ChIJcd7s5d_GhkcRXF3ca64eKj0,Lafarmacia. Monti,pharmacy,45.4930887,9.2160494,4.5,67.0,,"Via Luigi Varanini, 19, Milano",milan,2026-02-03T22:22:34.927004
+ChIJ3Y2f-d7GhkcRnoLHY1zw0fA,Farmacia Barni,pharmacy,45.4912878,9.2126921,3.7,40.0,,"Via Fratelli Lumière, 2, Milano",milan,2026-02-03T22:22:34.927012
+ChIJebsPL-DGhkcRy1SdtTcTKfc,Farmacia Confalonieri Dr. Federico,pharmacy,45.4931529,9.2186314,4.0,58.0,,"Viale Monza, 63, Milano",milan,2026-02-03T22:22:35.039041
+ChIJy1xbiO7HhkcRadhOh6cj1AY,Farmacia Predabissi,pharmacy,45.49009059999999,9.2232259,3.3,21.0,,"Via Francesco Predabissi, 1, Milano",milan,2026-02-03T22:22:35.039062
+ChIJWR4tnOLGhkcR0uKDgdThM8U,Farmacia Pavesio,pharmacy,45.4929869,9.2259394,4.6,39.0,,"Via Giorgio Chavez, 19, Milano",milan,2026-02-03T22:22:35.145938
+ChIJN3EWneLGhkcRUfx6n85oFOc,FARMACIA COSMESI,pharmacy,45.49296140000001,9.225875600000002,,,,"Via Padova, 86, Milano",milan,2026-02-03T22:22:35.145980
+ChIJEWMaYv7GhkcR717zvNH9cFU,Farmacia San Paolo,pharmacy,45.489966,9.2336719,4.0,57.0,,"Via Pordenone, 1, Milano",milan,2026-02-03T22:22:36.270535
+ChIJ95x7w__GhkcRoI3jJtUYc30,Farmacia Palmanova,pharmacy,45.4914983,9.2371313,4.2,114.0,,"Piazzale Udine, 8, Milano",milan,2026-02-03T22:22:36.270562
+ChIJD2qmV1TGhkcR4zx61Yn6IUo,Farmacia Santa Chiara,pharmacy,45.4892857,9.2419143,4.5,43.0,,"Via Crescenzago, 36, Milano",milan,2026-02-03T22:22:36.380708
+ChIJ9w4-WDPGhkcRlS0oOh8aICM,Farmacia Comunale n. 4,pharmacy,45.49087360000001,9.268007200000001,3.2,63.0,,"Via Borioli, 1, Segrate",milan,2026-02-03T22:22:36.672656
+ChIJ3Zr1ftbBhkcRYM1mNZLF4ME,Farmacia Gi.Due,pharmacy,45.49795379999999,9.103910199999998,4.7,35.0,,"Via Enrico Falck, 19a, Milano",milan,2026-02-03T22:22:38.285888
+ChIJc-PNBdHBhkcRU5RR-EIfq-s,Lafarmacia. Bonola,pharmacy,45.4958331,9.1090229,4.2,22.0,,"Via Ugo Betti, 159/B, Milano",milan,2026-02-03T22:22:38.285925
+ChIJk_fxOc7BhkcR4KA-HIg2fiM,Farmacia Dr. Max,pharmacy,45.4962154,9.115049299999999,2.7,163.0,,"Via Giacomo Quarenghi, 23, Milano",milan,2026-02-03T22:22:38.390232
+ChIJweKH1cvBhkcRn7LdVnOLB4M,Farmacia Zuliani Dr. Mirella,pharmacy,45.4967631,9.1211694,4.0,25.0,,"Via Uruguay, Milano",milan,2026-02-03T22:22:38.500488
+ChIJd93RL7bBhkcR2CtIKxgoEi4,Tamoil,pharmacy,45.4946764,9.124259799999999,3.9,61.0,,"VIA URUGUAY, Via delle Ande, 4, Milano",milan,2026-02-03T22:22:38.608405
+ChIJO-EWNrbBhkcRKxpswSZH2Vg,Lafarmacia. Comina,pharmacy,45.4944636,9.1250508,4.2,48.0,,"Via delle Ande, 5, Milano",milan,2026-02-03T22:22:38.608449
+ChIJe84ZHLLBhkcRBS0ySV8bQx8,Farmacia Comunale Milano N. 46,pharmacy,45.4953556,9.1335454,4.0,16.0,,"Via dei Cignoli, 1, Milano",milan,2026-02-03T22:22:38.724895
+ChIJCfFoILLBhkcRSSjCTjGxJn8,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.4955392,9.1339591,4.5,2.0,,"Via dei Cignoli, 1, Milano",milan,2026-02-03T22:22:38.724928
+ChIJSd5-cwDBhkcRjeSau67j6Hg,Farmacia 46 ABBA’,pharmacy,45.4967753,9.1340328,,,,"Via Catullo, 20, Milano",milan,2026-02-03T22:22:38.724938
+ChIJIThXr67BhkcRn2wEe4F62c8,Farmacia Certosa,pharmacy,45.4948786,9.1404622,4.2,53.0,,"Viale Certosa, 121, Milano",milan,2026-02-03T22:22:38.836196
+ChIJ70CAugDBhkcRis9mnLrzcf4,Tamoil,pharmacy,45.4952344,9.148009799999999,2.9,16.0,,"Via Varesina, 16, Milano",milan,2026-02-03T22:22:39.957920
+ChIJOwPt0KvBhkcR_Fx-suTySdA,Farmacia Amoretti,pharmacy,45.495495,9.143564999999999,4.2,53.0,,"Viale Carlo Espinasse, 30, Milano",milan,2026-02-03T22:22:39.957964
+ChIJhSR68QPBhkcROq79e8ruWBE,Lloyds Farmacia Comunale,pharmacy,45.4944961,9.153674900000002,3.8,55.0,,"Piazza Prealpi, 3, Milano",milan,2026-02-03T22:22:40.063961
+ChIJYTvpjgHBhkcRlnlswN5dctY,Farmacia Carletti - Rete Club Salute,pharmacy,45.49727079999999,9.153252499999999,4.6,63.0,,"Via Mac Mahon, 111, Milano",milan,2026-02-03T22:22:40.173194
+ChIJGSKw6tfAhkcRSza6k_fADA8,Pharmacy Rondo Farini Dr Moretti Barbara,pharmacy,45.4976016,9.183964399999997,4.1,104.0,,"Piazzale Carlo Maciachini, 24, Milano",milan,2026-02-03T22:22:40.440451
+ChIJr4CrdNXAhkcRBqv6QKO2N3k,BENU Farmacia Milano N. 63,pharmacy,45.497024,9.191711999999999,3.8,39.0,,"Via Gioacchino Murat, 5, Milano",milan,2026-02-03T22:22:40.546323
+ChIJP94uc9XAhkcRGjJKfueQhuU,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.4970016,9.191716399999999,4.7,3.0,,"Via Gioacchino Murat, 5, Milano",milan,2026-02-03T22:22:40.546342
+ChIJiTwqPCjHhkcRI9q2zViqJeI,Lloyds Farmacia,pharmacy,45.49596270000001,9.203561499999998,3.3,82.0,,"Via Eugenio Pellini, Milano",milan,2026-02-03T22:22:40.726119
+ChIJDyDmDNjGhkcRDb3VE-0Xe5Y,Pharmacy Melchiorre Gioia,pharmacy,45.4944456,9.2064407,4.3,191.0,,"Via Melchiorre Gioia, 135, Milano",milan,2026-02-03T22:22:41.850440
+ChIJ1dc0tB_HhkcRIS2Kzx_tLBU,Farmacia Bandi,pharmacy,45.4950382,9.2195766,4.3,107.0,,"Via Rovereto, 14, Milano",milan,2026-02-03T22:22:42.038607
+ChIJo9FxQQPHhkcRGHkPXc3__g4,Farmacia Turro di Alidosi Marco,pharmacy,45.4967592,9.230528699999999,4.6,34.0,,"Via Padova, 109, Milano",milan,2026-02-03T22:22:42.147970
+ChIJ-Ye-ywbHhkcRpBz6C2vQs3E,BENU Farmacia Milano N. 58,pharmacy,45.496368,9.235620100000002,3.8,48.0,,"Via Palmanova, 65, Milano",milan,2026-02-03T22:22:42.261684
+ChIJT4RXdwTHhkcRdIXe6Sik6Dc,gregorio signori,pharmacy,45.4974813,9.233115999999999,5.0,1.0,,"Rottole, Milan",milan,2026-02-03T22:22:42.261703
+ChIJr33qYATHhkcRjdA71zwQ8X0,FARMACIA PADOVA SAS del Dott. Tommaso Latella & C.,pharmacy,45.4982705,9.2330442,3.9,39.0,,"Via Privata Atene, 2, Milano",milan,2026-02-03T22:22:42.261707
+ChIJWyRzttbBhkcRu4_ksuhlwnk,Natù in Farmacia,pharmacy,45.49907879999999,9.111848199999999,3.0,1.0,,"Via Giacomo Quarenghi, 40, Milano",milan,2026-02-03T22:22:44.304897
+ChIJ8dzcN9LBhkcRTSo2I5ZVwNI,Farmacia Vento,pharmacy,45.49902300000001,9.1114175,4.4,38.0,,"Via Giacomo Quarenghi, 40/1, Milano",milan,2026-02-03T22:22:44.304970
+ChIJx8xnXDXAhkcRIQmOT5w2BnM,Farmacia Laghi,pharmacy,45.502115,9.125526,3.9,46.0,,"Viale Certosa, 282, Milano",milan,2026-02-03T22:22:45.493633
+ChIJV_gX0v_AhkcR7S3ltLpwKsQ,farmacia castelli,pharmacy,45.499669,9.151180100000001,4.5,69.0,,"Piazza Pompeo Castelli, 14, Milano",milan,2026-02-03T22:22:45.829343
+ChIJq7-t8-PAhkcRwi8AHtjN1Fk,Pharmacy Bovisa Curi dott.sa Anna Maria,pharmacy,45.50210449999999,9.1647575,4.0,41.0,,"Piazza Giovanni Bausan, 3, Milano",milan,2026-02-03T22:22:46.002888
+ChIJk9qFrOHAhkcRsgou_xFVH8Y,Lafarmacia. Imbriani,pharmacy,45.49995999999999,9.1681093,4.0,73.0,,"Via degli Imbriani, 35, Milano",milan,2026-02-03T22:22:46.112573
+ChIJ71yoJ9nAhkcRcRArc59wiyA,BENU Farmacia Milano N. 11,pharmacy,45.4996375,9.178925900000001,4.0,42.0,,"Via Livigno, 6, Milano",milan,2026-02-03T22:22:46.223129
+ChIJx9X1LtzAhkcR3z69D0TYw3s,Farmacia Pesenti snc dei Dottori Piana Paolo e Piana Piero,pharmacy,45.5023324,9.176071499999999,3.7,160.0,,"Via Ignazio Ciaia, 3, Milano",milan,2026-02-03T22:22:46.223210
+ChIJ9RSC79nAhkcRoVHqK2UBrEA,BENU Farmacia Milano N. 55,pharmacy,45.50205580000001,9.1823748,3.1,43.0,,"Via Carlo Imbonati, 24, Milano",milan,2026-02-03T22:22:47.380421
+ChIJ_WaYn9HAhkcRrpYKkRgImqQ,Farmacia Nizza,pharmacy,45.50269579999999,9.189185699999998,4.2,84.0,,"Via Gioacchino Murat, 85, Milano",milan,2026-02-03T22:22:47.490630
+ChIJUZtLlizHhkcRarItrkIHxXg,Farmacia Falqui,pharmacy,45.5007805,9.1969655,4.6,102.0,,"20159, Viale Zara, 145, Milano",milan,2026-02-03T22:22:47.605329
+ChIJ_2Q4p9PAhkcRiLepsfSuTb4,Farmacia Taddei,pharmacy,45.5020157,9.192864300000002,4.7,21.0,,"Via Airolo, 36, Milano",milan,2026-02-03T22:22:47.605350
+ChIJF0uYhyvHhkcRKQudwiXIZy0,BENU Farmacia Milano N. 64,pharmacy,45.500702,9.198899999999998,3.4,23.0,,"Via Abbazia, 4, Milano",milan,2026-02-03T22:22:47.605355
+ChIJh10xDiTHhkcRUzXdYTANEIM,Farmacia Greco,pharmacy,45.49977769999999,9.2120686,3.2,20.0,,"Viale delle Rimembranze di Greco, 40, Milano",milan,2026-02-03T22:22:47.790859
+ChIJ-bXsxiXHhkcRYEwqk3jmIrA,Farmacia De Marchi Desenzani Milano,pharmacy,45.4999978,9.209733100000001,3.5,92.0,,"Via Emilio de Marchi, 10, Milano",milan,2026-02-03T22:22:47.790876
+ChIJkYiXSRjHhkcRsM2oZcUxqks,Farmacia Sociale Berra,pharmacy,45.5016055,9.2216128,4.3,32.0,,"Viale Monza, 126, Milano",milan,2026-02-03T22:22:47.963946
+ChIJtWSI3gXHhkcRG5DqHocnz50,Tamoil,pharmacy,45.500435,9.235886599999999,3.9,189.0,,"Via Padova, 172, Milano",milan,2026-02-03T22:22:48.151058
+ChIJpah3y2vHhkcRXtsIecGBI6U,BENU Farmacia Milano N. 82,pharmacy,45.5002119,9.234873600000002,3.1,22.0,,"Via Pietro Toselli, 2, Milano",milan,2026-02-03T22:22:48.151071
+ChIJe1WtYwDHhkcRzAeToBzLbgA,Casa Lazzara,pharmacy,45.5010597,9.2352969,,,,"Via Agordat, 4, Milano",milan,2026-02-03T22:22:48.151073
+ChIJ5ecWkgjHhkcRxZaks2WXc94,Farmacia Fasolis,pharmacy,45.502704,9.238885,3.3,243.0,,"Via Bernardo Celentano, 1, Milano",milan,2026-02-03T22:22:48.256478
+ChIJtTfPIcfHhkcRcaRiys3VTng,Farmacia Comunale n°3,pharmacy,45.5023636,9.268245199999999,3.7,46.0,,"Via Residenza Ponti, 2, Segrate",milan,2026-02-03T22:22:49.588083
+ChIJkUh1ZUrBhkcRHtUs9qk-r7s,BENU Farmacia Milano N. 18,pharmacy,45.5041121,9.100544800000002,3.5,28.0,,"Via Alex Visconti, 22, Milano",milan,2026-02-03T22:22:51.017751
+ChIJGTjShyrAhkcRLLyCoNaWB10,OILONE,pharmacy,45.505136,9.104114399999998,4.2,100.0,,"Via Gallarate, 417, Milano",milan,2026-02-03T22:22:51.150895
+ChIJm5PXWrzBhkcRCifG2Z8Rbac,Farmacia San Guido,pharmacy,45.5041551,9.137514800000002,4.5,17.0,,"Viale Carlo Espinasse, 172, Milano",milan,2026-02-03T22:22:51.531926
+ChIJI7lOoeTAhkcRHc_NpNVqNY4,Farmacia Cavalli Albertina,pharmacy,45.50327040000001,9.162486000000001,4.8,22.0,,"Via Giuseppe Candiani, 122, Milano",milan,2026-02-03T22:22:52.868199
+ChIJ7RfKJefAhkcRjM96pF8m16Q,Farmacia Milano San Luca | Servizio di infermiere a domicilo,pharmacy,45.5030175,9.1703513,4.7,112.0,,"Via Antonio Carnevali, 70, Milano",milan,2026-02-03T22:22:52.984640
+ChIJtS2Eu83AhkcR33X5DD0kzk4,Farmacia Ca’ Granda,pharmacy,45.5067003,9.193349399999999,4.3,82.0,,"Via Michele de Angelis, 15, Milano",milan,2026-02-03T22:22:53.328823
+ChIJ05TU0TLHhkcRghLKHSS3hw8,Farmacia Suzzani,pharmacy,45.5063413,9.198010400000001,3.9,120.0,,"Viale Giovanni Suzzani, 18, Milano",milan,2026-02-03T22:22:53.434462
+ChIJIQAfmBfHhkcRGJebRmFwF3k,Farmacia Europa,pharmacy,45.5038622,9.2217099,3.7,58.0,,"Viale Monza, 177, Milano",milan,2026-02-03T22:22:54.770139
+ChIJi9sBWBfHhkcRKx_IDVrOR6o,Azienda Farmacie Milanesi S.P.A.,pharmacy,45.5032776,9.225614799999997,5.0,2.0,,"Via Policarpo Petrocchi, 21, Milano",milan,2026-02-03T22:22:54.878840
+ChIJ156_VRfHhkcRmYARkEByvdk,BENU Farmacia Milano N. 35,pharmacy,45.5032776,9.225614799999997,3.7,19.0,,"Via Policarpo Petrocchi, 21, Milano",milan,2026-02-03T22:22:54.878868
+ChIJOdRoag7HhkcR-cmgaxUOBl0,BENU Farmacia Milano N. 12,pharmacy,45.5054269,9.2334591,2.6,41.0,,"Via Privata Iglesias, 48, Milano",milan,2026-02-03T22:22:54.988542
+ChIJ6QUAdgrHhkcREWFyHcwe05I,BENU Farmacia Milano N.51,pharmacy,45.5073458,9.244540299999997,3.2,71.0,,"Via Mario Pieri, 2, Milano",milan,2026-02-03T22:22:55.182186
+ChIJJa6VRaPHhkcRLDjFslEOBwo,Farmacia del Parco,pharmacy,45.5072957,9.253197599999998,4.6,61.0,,"Via Angelo Rizzoli, 47, Milano",milan,2026-02-03T22:22:55.293238
+ChIJfVnZcgDHhkcR6fWM_yuru5w,Farmacia delle dimissioni – Settore L P-1,pharmacy,45.5043397,9.265025399999999,4.0,15.0,,"Via Olgettina, 60, Segrate",milan,2026-02-03T22:22:55.454148
+ChIJrZkE_ozqhkcR4fyxVxJUTFQ,Farmacia San Fedele,pharmacy,45.5103999,9.0866544,4.2,49.0,,"Via Sempione, 121, Pero",milan,2026-02-03T22:22:56.893640
+ChIJD3mdgYzrhkcR2r5j1NwgQNM,FARMACIA VITTORIA,pharmacy,45.5087013,9.0900349,4.5,69.0,,"Via Sempione, 21, Pero",milan,2026-02-03T22:22:56.893672
+ChIJr56r-jvAhkcRTSlZ4RmUjaQ,Tamoil,pharmacy,45.5119324,9.128047400000002,3.7,66.0,,"VIA G.B. GRASSI, Largo Umberto Boccioni, SNC, Milano",milan,2026-02-03T22:22:58.398226
+ChIJM8xKjkjAhkcRXrhIs1PpfW4,Farmacia Vercesi,pharmacy,45.5094355,9.1317983,4.7,77.0,,"Via Cinque Maggio, 1, Milano",milan,2026-02-03T22:22:58.398255
+ChIJNexK8kfAhkcRO5EkO7t4VCo,Pimpinelli,pharmacy,45.5112806,9.129237999999999,4.9,83.0,,"Via Antonio Aldini, 108, Milano",milan,2026-02-03T22:22:58.398268
+ChIJ6-zXEcLAhkcRZ8fweL85g8M,Farmacia Sant'Antonio S.n.c.,pharmacy,45.51057029999999,9.176197199999999,3.9,57.0,,"Via Pellegrino Rossi, 44, Milano",milan,2026-02-03T22:22:58.880107
+ChIJN7YTkczAhkcRj2pMegwfAUY,BENU Farmacia Milano N. 8,pharmacy,45.50896460000001,9.196334900000002,4.1,35.0,,"Via Val Maira, 14, Milano",milan,2026-02-03T22:23:00.125697
+ChIJ95hC0TXHhkcREFfBYbyRy10,Essere Benessere,pharmacy,45.51179399999999,9.2044637,,,,"Viale Fulvio Testi, 90, Milano",milan,2026-02-03T22:23:00.299259
+ChIJM0GWyxXHhkcR7CM0SKKRWm4,Farmacia Monza,pharmacy,45.5084403,9.224109,4.2,50.0,,"Piazzale Martesana, 4, Milano",milan,2026-02-03T22:23:00.450268
+ChIJRQdIPwzHhkcR7nmKenzO0BY,Lafarmacia.Pontenuovo,pharmacy,45.50763469999999,9.236845799999998,4.0,86.0,,"Via Ponte Nuovo, 40, Milano",milan,2026-02-03T22:23:00.640841
+ChIJqfURMKDHhkcR9lPoM-kyLOk,FARMACIA AL PONTE,pharmacy,45.50965799999999,9.247303200000001,3.8,71.0,,"Piazza Costantino, 1, Milano",milan,2026-02-03T22:23:00.818730
+ChIJa_uAegDBhkcRoGIab3ViPNM,Farmacia Ospedale Sacco,pharmacy,45.51496050000001,9.123868700000001,,,,"Pad. 19, Via Giovanni Battista Grassi, 74, Milano",milan,2026-02-03T22:23:03.826914
+ChIJoREnJD_AhkcRcAixyCZYxUk,Farmacia,pharmacy,45.5160144,9.1279574,3.9,24.0,,"Via Arsia, 14, Milano",milan,2026-02-03T22:23:03.925696
+ChIJ23nSDkTAhkcRpQtVvMFb-0k,Lafarmacia. Lanzani,pharmacy,45.5132127,9.137017499999999,3.3,175.0,,"Via Michele Lessona, 2, Milano",milan,2026-02-03T22:23:04.036589
+ChIJeUpiylzAhkcRwwyin7i7uAU,Lafarmacia. Oggiaro,pharmacy,45.5152154,9.142156500000002,3.5,17.0,,"Via Giuseppe Ungaretti, 12, Milano",milan,2026-02-03T22:23:04.138671
+ChIJ1Xh-XFzAhkcRCSi8vZiUjA4,Farmacia La Piazzetta Milano,pharmacy,45.5156463,9.1456841,4.4,36.0,,"Via Sabatino Lopez, 3, Milano",milan,2026-02-03T22:23:04.138690
+ChIJ9WU5-fTAhkcRsp-olusZxj8,Farmacia Unica Bovisasca,pharmacy,45.5158203,9.1555932,4.4,54.0,,"Via Bovisasca, 173, Milano",milan,2026-02-03T22:23:04.310268
+ChIJR718RevAhkcRkeIhaJMojwI,Farmacia Affori,pharmacy,45.5156749,9.1722095,4.2,137.0,,"Via Alessandro Zanoli, 3, Milano",milan,2026-02-03T22:23:05.540730
+ChIJN8D4KgDBhkcRCwva2io2f7Y,Viale Carlo espinasse,pharmacy,45.51600749999999,9.1874327,,,,"Via Val d'Ossola, Milano",milan,2026-02-03T22:23:05.700020
+ChIJVVVFCLbAhkcRkGpyC99frkw,Farmacia Niguarda,pharmacy,45.5153403,9.1940639,4.3,68.0,,"Via Monte Rotondo, 1, Milano",milan,2026-02-03T22:23:05.812403
+ChIJXULEyLfAhkcRvWqDsZxAjS4,Lafarmacia. Ornato,pharmacy,45.5158362,9.190953799999997,4.2,102.0,,"Via Luigi Ornato, 13, Milano",milan,2026-02-03T22:23:05.812424
+ChIJlfOTMzTHhkcRLvFpz8Hdpg0,Farmacia Boots Fulvio Testi,pharmacy,45.51203039999999,9.2043606,3.6,490.0,,"Viale Fulvio Testi, 90, Milano",milan,2026-02-03T22:23:05.922401
+ChIJ8yAO_JzHhkcRyflQkfzG71Y,Farmacia Zanotta,pharmacy,45.5145269,9.2076466,4.6,43.0,,"Via Luigi Pulci, 19, Milano",milan,2026-02-03T22:23:06.052771
+ChIJM43M3GrHhkcR7031U59pJHA,BENU Farmacia Milano N. 83,pharmacy,45.5132167,9.2250579,3.3,278.0,,"Viale Monza, 226, Milano",milan,2026-02-03T22:23:06.225408
+ChIJV02ERWrHhkcRhY0jl-vuDrQ,Tamoil,pharmacy,45.5152533,9.2257384,3.0,2.0,,"Viale Monza, 254, Milano",milan,2026-02-03T22:23:06.328415
+ChIJX9cYQ-vHhkcRupgHyWdhIiY,Tamoil,pharmacy,45.512452,9.270559300000002,4.2,477.0,,"PADANA SUPER. SNC, EX SS. 11 KM. 152+200, Vimodrone",milan,2026-02-03T22:23:07.799289
+ChIJq6p6SOzHhkcRXHraF75mFdY,Farmacia Dedala,pharmacy,45.5145766,9.274123200000002,4.7,47.0,,"Viale della Repubblica, 18, Vimodrone",milan,2026-02-03T22:23:07.799318
+ChIJGVCMdePqhkcRxjJ4Xx6DG4A,Farmacia Comunale Pero,pharmacy,45.51753249999999,9.071701100000002,4.1,66.0,,"Via Cesare Battisti, 6, Pero",milan,2026-02-03T22:23:08.049862
+ChIJKXu286vrhkcRJyWeo0WIEIM,Chiedilo al Farmacista,pharmacy,45.51940930000001,9.0783943,5.0,6.0,,"SS33 del Sempione, 28, Rho",milan,2026-02-03T22:23:09.169206
+ChIJCzPm2EHAhkcRUJPSKPs0Rf8,BENU Farmacia Milano N. 29,pharmacy,45.51925620000001,9.1354421,3.2,29.0,,"Via Michele Lessona, 55, Milano",milan,2026-02-03T22:23:09.738060
+ChIJx4IOmkHAhkcRXu6E576hPZM,Farmcia Lessona Erboristeria Dietetica,pharmacy,45.51752760000001,9.135782800000001,,,,Italy,milan,2026-02-03T22:23:09.738115
+ChIJlaZ-j0HAhkcRfObWaLNY8Ik,Farmacia Lessona Dr. Cosco Antonio,pharmacy,45.51754589999999,9.136060000000002,4.0,38.0,,"Via Privata Antonio Gazzoletti, 3, Milano",milan,2026-02-03T22:23:09.738125
+ChIJZbOEL13AhkcRUEh5bc-lOTQ,BENU Farmacia Milano N. 26,pharmacy,45.51708529999999,9.1432421,3.8,44.0,,"Via Cesare Pascarella, 22, Milano",milan,2026-02-03T22:23:10.855352
+ChIJTzq0MF3AhkcRCSanuXgiZrU,Farmacia Comunale,pharmacy,45.5172462,9.1431977,4.2,6.0,,"Via Cesare Pascarella, 22, Milano",milan,2026-02-03T22:23:10.855380
+ChIJJ_hx-kHAhkcRBw3k_mI1_1o,Farmacia comunale 2,pharmacy,45.5202784,9.149508299999999,3.9,20.0,,"Via Carlo Amoretti, 1, Novate Milanese",milan,2026-02-03T22:23:10.965454
+ChIJk-TD92TAhkcR0DkmtgsrQ-4,Farmacia,pharmacy,45.5204396,9.149256099999999,3.4,7.0,,"Via Bovisasca, 52, Novate Milanese",milan,2026-02-03T22:23:10.965498
+ChIJF_AGLJPAhkcR0KcCyzljpIE,Farmacia Picchiotti,pharmacy,45.5171328,9.1705803,4.2,24.0,,"Viale Affori, 10, Milano",milan,2026-02-03T22:23:11.208479
+ChIJTQJpIbfAhkcRLjS6uxycQcg,BENU Farmacia Milano N. 10,pharmacy,45.5184349,9.192109499999999,3.6,57.0,,"Via Palanzone, 33, Milano",milan,2026-02-03T22:23:11.451544
+ChIJJzcz_krHhkcRRzLR6kl7740,BENU Farmacia Milano N. 16,pharmacy,45.5160724,9.202992599999998,3.6,32.0,,"Viale Giovanni Suzzani, 155, Milano",milan,2026-02-03T22:23:11.638173
+ChIJR_c1xGnHhkcRmMlupIxWzEo,Farmacia Santo Spirito Snc,pharmacy,45.51851419999999,9.225542999999998,3.9,53.0,,"Viale Monza, 325, Milano",milan,2026-02-03T22:23:12.984525
+ChIJ73UD_HbHhkcR0nF4yJKwEpo,Farmacia Italo Inglese Del Dr. Massimo Maffioli & C. Snc,pharmacy,45.517626,9.2441931,4.0,67.0,,"1 Via Lussu Emilio, Milano",milan,2026-02-03T22:23:13.141871
+ChIJR0tLo_HHhkcR3rfDwfa5ZGg,Farmacia Ripamartesana,pharmacy,45.5190518,9.2791451,4.9,42.0,,"Viale Martesana, 75, Vimodrone",milan,2026-02-03T22:23:14.574663
+ChIJa6CO8xjAhkcRXJgqZ948jZU,Farmacia Longari Dr. Giusto,pharmacy,45.5220486,9.117506299999999,4.3,38.0,,"Via 1 Maggio, 42, Baranzate",milan,2026-02-03T22:23:16.157789
+ChIJ7ypNd4nAhkcR7hDn1oMWRuQ,Tamoil,pharmacy,45.522812,9.159146999999999,3.6,172.0,,"Via Alessandro Litta Modignani, 50, Milano",milan,2026-02-03T22:23:16.622237
+ChIJIXS2Vo7AhkcR2-tcCwIw5y4,Farmacia Fratelli Ragni,pharmacy,45.52379250000001,9.1659781,4.6,86.0,,"Via Alessandro Litta Modignani, 5, Milano",milan,2026-02-03T22:23:16.732507
+ChIJzcDCSpLAhkcRByuEOZ9PPC8,BENU Farmacia Milano N. 21,pharmacy,45.5210077,9.171453999999999,3.1,78.0,,"Via Gian Rinaldo Carli, 14, Milano",milan,2026-02-03T22:23:16.957746
+ChIJOyq4yQnBhkcRUnDEJXYL53w,Farmacia delle Querce,pharmacy,45.5252524,9.1672886,4.2,28.0,,"Via Gerolamo Forni, 34, Milano",milan,2026-02-03T22:23:16.957766
+ChIJVXivSZfAhkcRc6zScnN2Xfw,Lafarmacia. Casarsa,pharmacy,45.5248791,9.174495300000002,4.1,44.0,,"Via Casarsa, 13, Milano",milan,2026-02-03T22:23:17.128579
+ChIJs29TkU3HhkcRHbezH86k12I,BENU Farmacia Milano N. 41,pharmacy,45.52261,9.206754799999997,3.2,37.0,,"Viale Giovanni Suzzani, 239, Milano",milan,2026-02-03T22:23:18.511385
+ChIJJ9TYEmfHhkcRiEhmq4gEuFM,Pharmacy Metro Dr. Badawi,pharmacy,45.5245218,9.2280597,4.5,94.0,,"Viale Ercole Marelli, 348, Sesto San Giovanni",milan,2026-02-03T22:23:18.748233
+ChIJM53Ip3vHhkcRt1lB33N9kx8,Farmacia Comunale N°1 Tre Strade,pharmacy,45.5234141,9.240912500000002,4.0,21.0,,"Viale Rimembranze, 132, Sesto San Giovanni",milan,2026-02-03T22:23:18.921014
+ChIJvTKiuXjHhkcROgF8jOGGcCE,Pharmacy,pharmacy,45.523512,9.2468516,3.8,22.0,,"Via Carlo Marx, 495A, Sesto San Giovanni",milan,2026-02-03T22:23:20.033668
+ChIJbzA7VQDHhkcRTDBu-yJ8Rfw,Farmacia Padre Pio,pharmacy,45.5254865,9.250272299999999,4.4,14.0,,"Via Fratelli di Dio, 79, Sesto San Giovanni",milan,2026-02-03T22:23:20.148299
+ChIJ5Re9SAq4hkcRgeObUCCaZQc,Farmacia Caserta,pharmacy,45.5247553,9.272137700000002,4.5,30.0,,"Viale Piemonte, 5, Cologno Monzese",milan,2026-02-03T22:23:20.370192
+ChIJb_lCD_PHhkcRReCDGi61fhI,European Pharmacy Sciortino Cologno Monzese,pharmacy,45.5212678,9.274310500000002,3.8,135.0,,"Via Papa Giovanni XXIII, 19, Cologno Monzese",milan,2026-02-03T22:23:20.370227
+ChIJ71JfuPTHhkcRH1iavg45tig,Farmacia S. Giuseppe,pharmacy,45.5235454,9.273895399999999,4.7,42.0,,"Via Papa Giovanni XXIII, 1, Cologno Monzese",milan,2026-02-03T22:23:20.370237
+ChIJYfjwvavBhkcR5XAc_kgpAAs,Farmacia di Baranzate,pharmacy,45.5267784,9.111955499999999,4.0,20.0,,"Via Aquileia, 2, Baranzate",milan,2026-02-03T22:23:21.975704
+ChIJuarP8hvAhkcRcAbFnKgOj84,Farmacia Varesina,pharmacy,45.52651230000001,9.116619799999999,4.3,16.0,,"Via Trieste, 1/d, Baranzate",milan,2026-02-03T22:23:22.081767
+ChIJew3vmYjAhkcRYsrmFRgp9AY,Farmacia Comasina,pharmacy,45.52658,9.161592199999998,4.6,46.0,,"Piazza Cardinale Pietro Gasparri, 9, Milano",milan,2026-02-03T22:23:23.569452
+ChIJP-Ke7pnAhkcR_ILZ_YhIOHQ,BENU Farmacia Milano N. 33,pharmacy,45.5266195,9.175769100000002,4.3,44.0,,"Via Luigi Angeloni, 20, Milano",milan,2026-02-03T22:23:23.751986
+ChIJBT993aXAhkcRL67wqe4HtUA,Azienda Speciale Farmacia Multiservizi Comunale - Farmacia 4 - Bresso,pharmacy,45.5286289,9.189406199999999,4.3,34.0,,"Via Papa Giovanni XXIII, 43, Bresso",milan,2026-02-03T22:23:23.936219
+ChIJA2ZZhK_AhkcRgYwlcdBmjAw,Tamoil,pharmacy,45.5259828,9.1933939,3.9,378.0,1.0,"Via Luigi Ornato, 158, Milano",milan,2026-02-03T22:23:23.936264
+ChIJO-RPzlPHhkcREdz5ugYhL_U,Bicocca Pharmacy,pharmacy,45.5258067,9.2080885,4.4,96.0,,"Viale Giovanni Suzzani, 273, Milano",milan,2026-02-03T22:23:24.164177
+ChIJQRLk6mDHhkcRoaYRkq3P0BI,Farmacia Sanitas,pharmacy,45.526544,9.228428,4.7,92.0,,"Via Gorizia, 15, Sesto San Giovanni",milan,2026-02-03T22:23:25.417495
+ChIJc2e0l3-4hkcRDUYZLVzCuQ4,Farmacia Comunale 4 Parpagliona,pharmacy,45.5296832,9.253442999999999,4.1,40.0,,"Via Achille Grandi, 134, Sesto San Giovanni",milan,2026-02-03T22:23:25.759759
+ChIJy7l_jYfHhkcR6v6U4psNhH8,M.B.S.Medical Biological Service Srl,pharmacy,45.5290225,9.2614375,,,,"Via Giuseppe Di Vittorio, 5, Sesto San Giovanni",milan,2026-02-03T22:23:25.849461
+ChIJabhOlIrHhkcRfN9Mk46ov8U,Farmacia Emilia,pharmacy,45.5265627,9.2719734,4.7,19.0,,"Viale Emilia, 45, Cologno Monzese",milan,2026-02-03T22:23:26.031153
+ChIJ0_s1X3W4hkcR_0j81Wcd1jw,Gerardo Masullo - Farmaci,pharmacy,45.52751879999999,9.272641,,,,"Piazza Italia, 9, Cologno Monzese",milan,2026-02-03T22:23:26.031203
+ChIJRUY3MXW4hkcRuFeLyTxlnPo,Farmacia Centrale,pharmacy,45.528636,9.2741576,4.1,124.0,,"Via Felice Cavallotti, 31, Cologno Monzese",milan,2026-02-03T22:23:26.031214
+ChIJeQUIzAu4hkcR772hXiINML0,Farmacia Desenzani Cologno Monzese,pharmacy,45.5292215,9.2792364,3.8,132.0,,"Corso Roma, 13, Cologno Monzese",milan,2026-02-03T22:23:26.141641
+ChIJpXypIzvrhkcR1dOkBUopXaY,Farmacia Mazzo srl,pharmacy,45.53177059999999,9.072108100000001,4.6,16.0,,"Via Gandhi, 3, Rho",milan,2026-02-03T22:23:27.319319
+ChIJASv_x6OThkcRMQx74WviTBg,FARMABRACCO,pharmacy,45.53185129999999,9.072079299999999,4.1,22.0,,"Via Gandhi, 3, Rho",milan,2026-02-03T22:23:27.319369
+ChIJZYGHlQ3AhkcRw1SjBQeOyv0,Farmacia D'Ambrosio,pharmacy,45.53071019999999,9.1300546,3.6,20.0,,"Via Baranzate, 45, Novate Milanese",milan,2026-02-03T22:23:28.944875
+ChIJV_KuJ3PAhkcRBVqeSXiQMFE,Farmacia Bernardi,pharmacy,45.5312626,9.136189399999997,4.5,22.0,,"Via Repubblica, 75, Novate Milanese",milan,2026-02-03T22:23:29.113620
+ChIJuW98nXHAhkcRwPy57BNCxig,Farmacia comunale 1,pharmacy,45.5310924,9.1416016,4.4,42.0,,"Via G. Matteotti, 5, Novate Milanese",milan,2026-02-03T22:23:29.113666
+ChIJi8yKa3zAhkcR-OmXNaL7I00,FARMACIA PharmaNOVATE,pharmacy,45.5307422,9.153821799999998,4.9,278.0,,"Parcheggio Gratuito Coperto Interno, Via Polveriera, 29, Novate Milanese",milan,2026-02-03T22:23:29.287293
+ChIJ9-1YOKjAhkcRhueSkA5WR1M,Farmacia Comunale 2,pharmacy,45.53242720000001,9.196188399999999,4.3,8.0,,"Via Ambrogio Strada, 56, Bresso",milan,2026-02-03T22:23:30.807067
+ChIJh2x3N6jAhkcRve8QrrgBJvw,Asf Farmacia,pharmacy,45.53241899999999,9.196345899999997,4.2,5.0,,"Via Ambrogio Strada, 58, Bresso",milan,2026-02-03T22:23:30.807114
+ChIJczbLR6C4hkcRrX2aOubeQHg,Lafarmacia. De Carli,pharmacy,45.5327226,9.2274338,4.4,23.0,,"Piazza Trento e Trieste, 11, Sesto San Giovanni",milan,2026-02-03T22:23:31.171383
+ChIJcd-eIWDHhkcRubySg_lMsWo,Farmacia Comunale,pharmacy,45.531099,9.2305199,3.3,43.0,,"Viale Ercole Marelli, 79, Sesto San Giovanni",milan,2026-02-03T22:23:31.171433
+ChIJvcR3CZ64hkcRIyrjySFmoOM,Farmacia Comunale,pharmacy,45.5312267,9.234387,3.8,23.0,,"Via Tino Savi, 40, Sesto San Giovanni",milan,2026-02-03T22:23:31.284930
+ChIJiQNFC5-4hkcRS_fYs3zxXNk,Lafarmacia. Del Rondò,pharmacy,45.53392110000001,9.2303862,3.6,295.0,,"Piazza Martiri di Via Fani, 7, Sesto San Giovanni",milan,2026-02-03T22:23:31.284976
+ChIJz8SPdZy4hkcR5x8z8PEgTKQ,Farmacia Dr. Max,pharmacy,45.53454449999999,9.238064099999999,3.5,46.0,,"Largo Alfonso Lamarmora, 1, Sesto San Giovanni",milan,2026-02-03T22:23:31.405471
+ChIJkcx87Ha5hkcR1J69JYdbe7M,Sala,pharmacy,45.52971549999999,9.2742343,,,,"Via Monte Rosa, 10, Cologno Monzese",milan,2026-02-03T22:23:32.790113
+ChIJF9DHFze5hkcRCnTnA_E5ZDs,Farmacia Dr. Max,pharmacy,45.5321908,9.2784003,4.1,8.0,,"Via Quattro Strade, 16, Cologno Monzese",milan,2026-02-03T22:23:32.908457
+ChIJWwNLhgy4hkcR_48zrHGfPA8,Farmacia Dott. Di Pietro Luciana,pharmacy,45.53214250000001,9.278582799999999,4.4,12.0,,"Via Quattro Strade, 16, Cologno Monzese",milan,2026-02-03T22:23:32.908484
+ChIJVVVVVQrAhkcR971cpznwoko,Lafarmacia. Stelvio,pharmacy,45.537961,9.131756399999999,4.2,69.0,,"Via Stelvio, 9, Novate Milanese",milan,2026-02-03T22:23:34.587712
+ChIJp-vKG1-_hkcRSZ8pVLdh4XM,Farmacia Scotti,pharmacy,45.5361775,9.186992799999999,4.3,37.0,,"Via Alessandro Manzoni, 14, Bresso",milan,2026-02-03T22:23:36.186082
+ChIJwV9tRVi_hkcRnIMZ1xCkqBQ,Farmacia Moderna,pharmacy,45.5354971,9.1933255,4.3,43.0,,"Via Vittorio Veneto, 53, Bresso",milan,2026-02-03T22:23:36.186129
+ChIJvSm7XZu4hkcRxBYa2k4UCB0,Farmacia Comunale,pharmacy,45.53732509999999,9.222638,4.4,21.0,,"Via S. Denis, 85, Sesto San Giovanni",milan,2026-02-03T22:23:36.548006
+ChIJJ51eL6K4hkcRrs7rtYzxQec,Rovani,pharmacy,45.53610949999999,9.2284791,3.9,189.0,,"Via Giuseppe Rovani, 84, Sesto San Giovanni",milan,2026-02-03T22:23:36.657817
+ChIJvSm7XZu4hkcR0TOVqMKDkqQ,F5 - Farmacia Comunale Centrale,pharmacy,45.53630159999999,9.231862099999999,4.4,19.0,,"Viale Fratelli Casiraghi, 53, Sesto San Giovanni",milan,2026-02-03T22:23:37.783441
+ChIJi2IXypu4hkcRnpo1Qtp5Q_s,Lafarmacia. Dante,pharmacy,45.5369536,9.2373406,4.1,24.0,,"Via Dante Alighieri, 143, Sesto San Giovanni",milan,2026-02-03T22:23:37.783495
+ChIJr6zGXZu4hkcRGytKxpfSUL4,Farmacia Comunale Delle Corti,pharmacy,45.535018,9.240295999999999,4.3,23.0,,"Via Padre Ravasi, 40, Sesto San Giovanni",milan,2026-02-03T22:23:37.907330
+ChIJkcv77HK4hkcRi8c4tgWorOA,Tamoil,pharmacy,45.5352182,9.2749882,3.4,37.0,,"Viale Lombardia, 4, Cologno Monzese",milan,2026-02-03T22:23:38.246905
+ChIJq6xziGu4hkcRuO2B9xT1xM0,BENU Farmacia San Maurizio - Dott. F. Sidoli,pharmacy,45.5369591,9.2747586,4.6,76.0,,"Viale Lombardia, 29, Cologno Monzese",milan,2026-02-03T22:23:38.246922
